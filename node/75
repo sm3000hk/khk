@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="https://www.googletagmanager.com/gtag/js?id=G-4S7QKEPTNQ" async=""></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-4S7QKEPTNQ');</script>
+<link rel="shortcut icon" href="https://www.kdk.jp/sites/default/files/kdk-favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/75" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/contact-us" />
+  <title>Contact Us | KDK Website</title>
+  <style>
+@import url("https://www.kdk.jp/modules/system/system.base.css?s4rkmb");
+</style>
+<style>
+@import url("https://www.kdk.jp/sites/all/modules/contrib/date/date_api/date.css?s4rkmb");
+@import url("https://www.kdk.jp/modules/field/theme/field.css?s4rkmb");
+@import url("https://www.kdk.jp/modules/node/node.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/custom/web_animation/css/custom.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/views/css/views.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?s4rkmb");
+</style>
+<style>
+@import url("https://www.kdk.jp/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/ctools/css/ctools.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/easychart/modules/easychart_wysiwyg/plugins/css/plugin.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/lightbox2/css/lightbox.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/panels/css/panels.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/custom/peshk_category_drop_down/css/category_drop_down.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/custom/product_comparison/css/comparison.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/custom/product_selection/css/selection.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/video/css/video.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?s4rkmb");
+</style>
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" media="all" />
+<style>
+@import url("https://www.kdk.jp/sites/all/modules/custom/peshk_product_variation/peshk_product_variation.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/webform/css/webform.css?s4rkmb");
+</style>
+<style>#sliding-popup.sliding-popup-top,#sliding-popup.sliding-popup-top .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#d8d8d8;}#sliding-popup.sliding-popup-top.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-more-button,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#313131 !important;}.eu-cookie-withdraw-tab{border-color:#313131;}#sliding-popup.sliding-popup-top{position:fixed;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.7/css/bootstrap.css" media="all" />
+<style>
+@import url("https://www.kdk.jp/sites/all/themes/bootstrap/css/3.3.5/overrides.min.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/Magnific-Popup-master/dist/magnific-popup.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/style.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/flexslider.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/ext.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/style-override.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/style-kdk.css?s4rkmb");
+</style>
+<style media="print">
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/print.css?s4rkmb");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.kdk.jp/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.kdk.jp/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="https://www.kdk.jp/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script src="https://www.kdk.jp/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.kdk.jp/misc/drupal.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script src="https://www.kdk.jp/misc/ajax.js?v=7.73"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="https://cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.js"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/peshk_product_market/assets/js/peshk_product_market.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/peshk_product_market/assets/js/imagesloaded.pkgd.min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/peshk_product_market/assets/js/jquery.cookie.min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/libraries/colorbox/jquery.colorbox-min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/colorbox/js/colorbox.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/lightbox2/js/lightbox.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/product_comparison/js/math.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/product_comparison/js/comparison.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/product_selection/js/math.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/product_selection/js/selection.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/video/js/video.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/captcha/captcha.js?s4rkmb"></script>
+<script src="https://code.highcharts.com/10.3.3/highcharts.js"></script>
+<script src="https://code.highcharts.com/10.3.3/modules/exporting.js"></script>
+<script src="https://rawgithub.com/highcharts/draggable-points/master/draggable-points.js"></script>
+<script src="https://highcharts.github.io/export-csv/export-csv.js"></script>
+<script src="https://malsup.github.io/jquery.cycle.all.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="https://www.kdk.jp/misc/textarea.js?v=7.73"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/peshk_product_variation/peshk_product_variation.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.73"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/webform/js/webform.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/jquery.flexslider-min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/peshk.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/slideshow.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/product.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/banner.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/ext.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/Magnific-Popup-master/dist/jquery.magnific-popup.min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/custom.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/bootstrap/js/misc/ajax.js?s4rkmb"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"digisaladPeshkTheme","theme_token":"Xm3cuEgocE5NDPOhRE-i0akABJjaNvvxLzcnSxKnhGI","jquery_version":"1.10","js":{"0":1,"1":1,"":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"https:\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/peshk_product_market\/assets\/js\/peshk_product_market.js":1,"sites\/all\/modules\/custom\/peshk_product_market\/assets\/js\/imagesloaded.pkgd.min.js":1,"sites\/all\/modules\/custom\/peshk_product_market\/assets\/js\/jquery.cookie.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/custom\/product_comparison\/js\/math.js":1,"sites\/all\/modules\/custom\/product_comparison\/js\/comparison.js":1,"sites\/all\/modules\/custom\/product_selection\/js\/math.js":1,"sites\/all\/modules\/custom\/product_selection\/js\/selection.js":1,"sites\/all\/modules\/contrib\/video\/js\/video.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"https:\/\/code.highcharts.com\/10.3.3\/highcharts.js":1,"https:\/\/code.highcharts.com\/10.3.3\/modules\/exporting.js":1,"https:\/\/rawgithub.com\/highcharts\/draggable-points\/master\/draggable-points.js":1,"https:\/\/highcharts.github.io\/export-csv\/export-csv.js":1,"https:\/\/malsup.github.io\/jquery.cycle.all.js":1,"https:\/\/cdn.jsdelivr.net\/npm\/slick-carousel@1.8.1\/slick\/slick.min.js":1,"misc\/textarea.js":1,"sites\/all\/modules\/custom\/peshk_product_variation\/peshk_product_variation.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/webform\/js\/webform.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/peshk.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/slideshow.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/product.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/banner.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/ext.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/Magnific-Popup-master\/dist\/jquery.magnific-popup.min.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/custom.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/web_animation\/css\/custom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/easychart\/modules\/easychart_wysiwyg\/plugins\/css\/plugin.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/peshk_category_drop_down\/css\/category_drop_down.css":1,"sites\/all\/modules\/custom\/product_comparison\/css\/comparison.css":1,"sites\/all\/modules\/custom\/product_selection\/css\/selection.css":1,"sites\/all\/modules\/contrib\/video\/css\/video.css":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"https:\/\/fonts.googleapis.com\/css?family=Open+Sans+Condensed:300,300i,700":1,"https:\/\/cdn.jsdelivr.net\/npm\/slick-carousel@1.8.1\/slick\/slick.css":1,"sites\/all\/modules\/custom\/peshk_product_variation\/peshk_product_variation.css":1,"sites\/all\/modules\/contrib\/webform\/css\/webform.css":1,"0":1,"https:\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/Magnific-Popup-master\/dist\/magnific-popup.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/style.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/flexslider.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/ext.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/style-override.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/style-kdk.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Wget\/1.24.5"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EOur website uses cookies and similar tools to improve its performance and enhance your user experience and by continring to use this website without changing your settings, you consent to their use. To find out more about the cookies we use or how to change you settings, please see our\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ECookie policy\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EDecline\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ECookie policy\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EDecline\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookie-policy","popup_link_new_window":1,"popup_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"opt_in","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false},"urlIsAjaxTrusted":{"\/node\/75":true,"\/system\/ajax":true},"ajax":{"edit-webform-ajax-submit-75":{"callback":"webform_ajax_callback","wrapper":"webform-ajax-wrapper-75","progress":{"message":"","type":"throbber"},"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-75 node-type-webform i18n-en">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar container-fluid navbar-default">
+
+  <div class="container">
+    <div class="container-fluid row">
+      <div class="navbar-header">
+        <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="/sites/all/themes/digisalad_peshk_theme/images/kdk-logo.jpg"
+               alt="Home"/>
+        </a>
+          
+					<a class="mobile-search" href="#"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></a>
+
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+              <img src="/sites/all/themes/digisalad_peshk_theme/images/menu-button-black.png" alt="Menu"/>
+            </button>
+                </div>
+
+                  <div class="navbar-collapse collapse" id="navbar-collapse">
+            <nav role="navigation">
+                                    <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/category" title="">Products</a></li>
+<li class="collapsed"><a href="/solution-centre">Solution Centre</a></li>
+<li class="collapsed"><a href="/events-and-promotions">Event &amp; Promotion</a></li>
+<li class="collapsed"><a href="/support/faq" title="">Support</a></li>
+<li class="last collapsed"><a href="/about-us/our-brand">About KDK</a></li>
+</ul>                
+                
+                                      <div class="region region-navigation">
+    <section id="block-menu-menu-toolbar-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf active-trail active"><a href="/contact-us" title="" class="active-trail active">Contact Us</a></li>
+<li class="last leaf"><a href="/worldwide-agent" title="">Worldwide Agents</a></li>
+</ul>
+</section>
+<section id="block-block-5" class="block block-block text-resizer-block clearfix">
+
+      
+  <div class="text-resizer"><span class="small"><a href="javascript:resizeText('small')" tabindex="0">A</a></span> <span class="medium"><a href="javascript:resizeText('medium')" tabindex="0">A+</a></span> <span class="large"><a href="javascript:resizeText('large')" tabindex="0">A++</a></span></div>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.text-resizer-block {
+	display: inline-block;
+    position: absolute;
+    top: 33px;
+    right: 170px;
+}
+@media(max-width:980px){
+  .text-resizer-block {display:none;}
+}
+
+/*--><!]]>*/
+</style>
+</section>
+<section id="block-search-api-page-search" class="block block-search-api-page clearfix">
+
+      
+  <form action="/node/75" method="post" id="search-api-page-search-form-search" accept-charset="UTF-8"><div><div class="form-item form-item-keys-1 form-type-textfield form-group"><input placeholder="Enter your keywords" class="form-control form-text" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" /> <label class="control-label element-invisible" for="edit-keys-1">Enter your keywords</label>
+</div><input type="hidden" name="id" value="1" />
+<button type="submit" id="edit-submit-1" name="op" value="Search" class="btn btn-primary form-submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-Vy-mAou0C6C3KkZ8FYKXGUoiecDBrImy5BxftFpndYg" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_search" />
+</div></form>
+</section>
+<section id="block-block-6" class="block block-block clearfix">
+
+      
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WPV6346');</script>
+<!-- End Google Tag Manager -->
+</section>
+  </div>
+                            </nav>
+          </div>
+            </div>
+
+  </div>
+</header>
+<div class="mobile-search-wrap">
+	<section id="block-search-api-page-search--2" class="block block-search-api-page clearfix">
+
+      
+  <form action="/node/75" method="post" id="search-api-page-search-form-search--2" accept-charset="UTF-8"><div><div class="form-item form-item-keys-1 form-type-textfield form-group"><input placeholder="Enter your keywords" class="form-control form-text" type="text" id="edit-keys-1--2" name="keys_1" value="" size="15" maxlength="128" /> <label class="control-label element-invisible" for="edit-keys-1--2">Enter your keywords</label>
+</div><input type="hidden" name="id" value="1" />
+<button type="submit" id="edit-submit-1--2" name="op" value="Search" class="btn btn-primary form-submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-yjuQzTumKRU4EAt3CfbF32n6BXfJpMpp15KvmVbinzA" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_search" />
+</div></form>
+</section>
+</div>
+<!--<div class="mobile-search-wrap">
+	<form action="/" method="post" class="mobile-search-form">
+	  <input title="Enter the terms you wish to search for." placeholder="Search..." class=" form-text" type="text" id="" name="search_block_form" value="" size="15" maxlength="128">	
+	  <input type="hidden" name="form_id" value="search_block_form">
+	  <button type="submit" value=""><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button>
+	</form>
+</div> /-->
+<div>
+      <div class="region region-hero">
+    <section id="block-imageblock-5" class="block block-imageblock clearfix">
+
+      
+    <div class="top-banner">
+      <img class="imageblock-image img-responsive" src="https://www.kdk.jp/sites/default/files/imageblock/EN180929-KDK-Web-Banner-Banner-V005-Contact-Us.png" alt="" />    <!--     <div class="page-title"></div> -->
+  </div>
+
+</section>
+  </div>
+</div>
+
+<div class="main-container container site-content ">
+
+  <header role="banner" id="page-header">
+        </header> <!-- /#page-header -->
+
+  <div class="row">
+      
+    <section class="col-sm-12">
+                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first last"><a href="/">Home</a></span></div>      <a id="main-content"></a>
+                          <!--         <h1 class="page-header"></h1> -->
+        
+        
+              <div class="row">
+        <div class="col-sm-12">
+                                                                                                      <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-75" class="node node-webform node-promoted clearfix">
+    <div class="field field-name-field-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p class="form-title"> </p>
+<p> </p>
+<p class="form-title">Enquiry</p>
+</div></div></div><div id="webform-ajax-wrapper-75"><form class="webform-client-form webform-client-form-75" action="/node/75" method="post" id="webform-client-form-75" accept-charset="UTF-8"><div><div class="webform-progressbar">
+  
+
+  
+  </div>
+<div class="form-item webform-component webform-component-select webform-component--your-location webform-container-inline form-group form-inline form-item form-item-submitted-your-location form-type-select form-group"> <label class="control-label" for="edit-submitted-your-location">Your Location <span class="form-required" title="This field is required.">*</span></label>
+<select required="required" class="form-control form-select required" id="edit-submitted-your-location" name="submitted[your_location]"><option value="" selected="selected">- Select -</option><option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="BQ">Caribbean Netherlands</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo (Brazzaville)</option><option value="CD">Congo (Kinshasa)</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CW">Curaçao</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island and McDonald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong S.A.R., China</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao S.A.R., China</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="KP">North Korea</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestinian Territory</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="BL">Saint Barthélemy</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="MF">Saint Martin (French part)</option><option value="PM">Saint Pierre and Miquelon</option><option value="VC">Saint Vincent and the Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SX">Sint Maarten</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia and the South Sandwich Islands</option><option value="KR">South Korea</option><option value="SS">South Sudan</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard and Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="VI">U.S. Virgin Islands</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US">United States</option><option value="UM">United States Minor Outlying Islands</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select></div><div class="form-item webform-component webform-component-select webform-component--enquiry-product webform-container-inline form-group form-inline form-item form-item-submitted-enquiry-product form-type-select form-group"> <label class="control-label" for="edit-submitted-enquiry-product">Enquiry Product <span class="form-required" title="This field is required.">*</span></label>
+<select required="required" class="form-control form-select required" id="edit-submitted-enquiry-product" name="submitted[enquiry_product]"><option value="" selected="selected">- Select -</option><option value="general">General Enquiry</option><option value="ventilatingfan">Ventilating Fan</option><option value="airpurifier">Air Purifier</option><option value="ceilingfan">Ceiling Fan</option><option value="electricfan">Electric Fan</option><option value="airmovingequipment">Air Moving Equipment</option><option value="energyrecoveryventilator">Energy Recovery Ventilator</option><option value="aircurtain">Air Curtain</option><option value="waterpump">Water Pump</option><option value="dehumidifier">Dehumidifier</option><option value="rangehood">Rangehood</option><option value="handdryer">Hand Dryer</option><option value="thermoventilator">Thermo Ventilator</option><option value="accessory">Accessory</option></select></div><div class="form-item webform-component webform-component-textfield webform-component--name webform-container-inline form-group form-inline form-item form-item-submitted-name form-type-textfield form-group"> <label class="control-label" for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="128" /></div><div class="form-item webform-component webform-component-textfield webform-component--company webform-container-inline form-group form-inline form-item form-item-submitted-company form-type-textfield form-group"> <label class="control-label" for="edit-submitted-company">Company</label>
+<input class="form-control form-text" type="text" id="edit-submitted-company" name="submitted[company]" value="" size="60" maxlength="128" /></div><div class="form-item webform-component webform-component-email webform-component--email webform-container-inline form-group form-inline form-item form-item-submitted-email form-type-webform-email form-group"> <label class="control-label" for="edit-submitted-email">Email <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="email form-control form-text form-email required" type="email" id="edit-submitted-email" name="submitted[email]" size="60" /></div><div class="form-item webform-component webform-component-textfield webform-component--subject webform-container-inline form-group form-inline form-item form-item-submitted-subject form-type-textfield form-group"> <label class="control-label" for="edit-submitted-subject">Subject <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-subject" name="submitted[subject]" value="" size="60" maxlength="128" /></div><div class="form-item webform-component webform-component-textfield webform-component--phone-no webform-container-inline form-group form-inline form-item form-item-submitted-phone-no form-type-textfield form-group"> <label class="control-label" for="edit-submitted-phone-no">Phone No. <span class="form-required" title="This field is required.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-phone-no" name="submitted[phone_no]" value="" size="60" maxlength="128" /></div><div class="form-item webform-component webform-component-textfield webform-component--fax-no webform-container-inline form-group form-inline form-item form-item-submitted-fax-no form-type-textfield form-group"> <label class="control-label" for="edit-submitted-fax-no">Fax No.</label>
+<input class="form-control form-text" type="text" id="edit-submitted-fax-no" name="submitted[fax_no]" value="" size="60" maxlength="128" /></div><div class="form-item webform-component webform-component-textarea webform-component--your-enquiry webform-container-inline form-group form-inline form-item form-item-submitted-your-enquiry form-type-textarea form-group"> <label class="control-label" for="edit-submitted-your-enquiry">Your Enquiry</label>
+<div class="form-textarea-wrapper resizable"><textarea class="form-control form-textarea" id="edit-submitted-your-enquiry" name="submitted[your_enquiry]" cols="60" rows="5"></textarea></div></div><input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-QD3827egPypRNtQFFkZVPrJfpvy-8AuMoqUhQ2Ngsrw" />
+<input type="hidden" name="form_id" value="webform_client_form_75" />
+<input type="hidden" name="webform_ajax_wrapper_id" value="webform-ajax-wrapper-75" />
+<div class="captcha"><input type="hidden" name="captcha_sid" value="1060411" />
+<input type="hidden" name="captcha_token" value="86a83711fce3bab8498c626114f18c95" />
+<img class="img-responsive" src="/image_captcha?sid=1060411&amp;ts=1718862976" width="180" height="60" alt="Image CAPTCHA" title="Image CAPTCHA" /><div class="form-item form-item-captcha-response form-type-textfield form-group"> <label class="control-label" for="edit-captcha-response">What code is in the image? <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-control form-text required" title="Enter the characters shown in the image." data-toggle="tooltip" type="text" id="edit-captcha-response" name="captcha_response" value="" size="15" maxlength="128" /></div></div><div class="form-actions"><button class="webform-submit button-primary btn btn-primary form-submit" type="submit" id="edit-webform-ajax-submit-75" name="op" value="Submit">Submit</button>
+</div></div></form></div>    </article>
+
+</section>
+  </div>
+        </div>
+      </div>
+    </section>
+
+      
+  </div>
+</div>
+
+  <footer class="footer container-fluid">
+        <div class="region region-footer">
+    <section id="block-block-2" class="block block-block clearfix">
+
+      
+  <div id="globalfooter-nav">
+<div class="container">
+<div class="row">
+<div class="print col-md-4  col-sm-4 col-xl-4"><a href="javascript:void(0);" onclick="window.print(); return false">Print</a></div>
+<div class="pagetop col-md-4  col-sm-4 col-xl-4"><a href="#">Back to Top</a></div>
+<div class="links col-md-4  col-sm-4 col-xl-4">
+<!--<div class="links-root-item"><a href="https://www.panasonic.com/global/global-network.html">Area / Country</a></div>--></div>
+</div>
+</div>
+</div>
+
+</section>
+<section id="block-block-1" class="block block-block clearfix">
+
+      
+  <div class="container copyright_container">
+<p class="copyright">Copyright © KDK Hong Kong 2019</p>
+<p class="copyright icp"></p>
+</div>
+
+</section>
+<section id="block-menu-menu-footermenu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/sitemap" title="">Site Map</a></li>
+<li class="leaf"><a href="/terms-use" title="">Terms of Use</a></li>
+<li class="last leaf"><a href="/privacy-policy" title="">Privacy Policy</a></li>
+</ul>
+</section>
+  </div>
+  </footer>
+  <script>function euCookieComplianceLoadScripts() {}</script>
+<script>var eu_cookie_compliance_cookie_name = "";</script>
+<script src=""></script>
+<script src="https://www.kdk.jp/sites/all/themes/bootstrap/js/bootstrap.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?s4rkmb"></script>
+</body>
+</html>
