@@ -1,0 +1,1021 @@
+<script>rooturl = "https://www.kdk.jp";primaryArray = [{"name":"Ventilating Fan","id":"38","sub-cate":"1"},{"name":"Electric Fan","id":"43","sub-cate":"1"},{"name":"Ceiling Fan","id":"42","sub-cate":"1"},{"name":"Air Moving Equipment","id":"39","sub-cate":"1"},{"name":"Energy Recovery Ventilator","id":"615","sub-cate":"0"},{"name":"Air Curtain","id":"46","sub-cate":"1"},{"name":"Hand Dryer","id":"319","sub-cate":"0"},{"name":"Rangehood","id":"41","sub-cate":"0"},{"name":"Thermo Ventilator","id":"40","sub-cate":"1"},{"name":"Air Purifier","id":"45","sub-cate":"1"},{"name":"Dehumidifier","id":"44","sub-cate":"1"},{"name":"Accessory","id":"88","sub-cate":"1"}];secondaryArray =[{"parent_id":38,"taxonomy_name":"Ceiling Mount Type","taxonomy_id":"49"},{"parent_id":38,"taxonomy_name":"Wall Mount Type","taxonomy_id":"50"},{"parent_id":38,"taxonomy_name":"Window Mount Type","taxonomy_id":"51"},{"parent_id":38,"taxonomy_name":"Industrial Type","taxonomy_id":"53"},{"parent_id":43,"taxonomy_name":"Living Fan","taxonomy_id":"65"},{"parent_id":43,"taxonomy_name":"Desk Fan","taxonomy_id":"68"},{"parent_id":43,"taxonomy_name":"Pedestal Fan","taxonomy_id":"87"},{"parent_id":43,"taxonomy_name":"Louver Fan","taxonomy_id":"69"},{"parent_id":43,"taxonomy_name":"Wall Fan","taxonomy_id":"70"},{"parent_id":43,"taxonomy_name":"Cycle Fan","taxonomy_id":"71"},{"parent_id":42,"taxonomy_name":"DC Motor Type","taxonomy_id":"293"},{"parent_id":42,"taxonomy_name":"Remote Controlled Type","taxonomy_id":"61"},{"parent_id":42,"taxonomy_name":"Standard Type","taxonomy_id":"62"},{"parent_id":42,"taxonomy_name":"Low Ceiling Type","taxonomy_id":"63"},{"parent_id":42,"taxonomy_name":"Lamp Adaptor Type","taxonomy_id":"64"},{"parent_id":39,"taxonomy_name":"Cabinet Fan","taxonomy_id":"54"},{"parent_id":39,"taxonomy_name":"Compact Axial Flow Fan","taxonomy_id":"55"},{"parent_id":39,"taxonomy_name":"Mini Sirocco Fan","taxonomy_id":"56"},{"parent_id":46,"taxonomy_name":"900mm","taxonomy_id":"78"},{"parent_id":46,"taxonomy_name":"1200mm","taxonomy_id":"79"},{"parent_id":46,"taxonomy_name":"1500mm","taxonomy_id":"292"},{"parent_id":40,"taxonomy_name":"Window Mount Series","taxonomy_id":"59"},{"parent_id":40,"taxonomy_name":"Ceiling Mount Series","taxonomy_id":"60"},{"parent_id":45,"taxonomy_name":"Humidifying Series","taxonomy_id":"76"},{"parent_id":45,"taxonomy_name":"Standard Series","taxonomy_id":"77"},{"parent_id":44,"taxonomy_name":"Hybrid Type","taxonomy_id":"73"},{"parent_id":44,"taxonomy_name":"Desiccant Type","taxonomy_id":"74"},{"parent_id":44,"taxonomy_name":"Compressor Type","taxonomy_id":"75"},{"parent_id":88,"taxonomy_name":"Vent Cap","taxonomy_id":"299"},{"parent_id":88,"taxonomy_name":"Pipe Hood","taxonomy_id":"298"},{"parent_id":88,"taxonomy_name":"Shutter","taxonomy_id":"625"},{"parent_id":88,"taxonomy_name":"Controller","taxonomy_id":"630"},{"parent_id":88,"taxonomy_name":"Filter Box","taxonomy_id":"631"}];</script><!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="https://www.googletagmanager.com/gtag/js?id=G-4S7QKEPTNQ" async=""></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-4S7QKEPTNQ');</script>
+<link rel="shortcut icon" href="https://www.kdk.jp/sites/default/files/kdk-favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/11348" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/product/40bebh" />
+  <title>40BEBH | KDK Website</title>
+  <style>
+@import url("https://www.kdk.jp/modules/system/system.base.css?s4rkmb");
+</style>
+<style>
+@import url("https://www.kdk.jp/sites/all/modules/contrib/field_group/horizontal-tabs/horizontal-tabs.css?s4rkmb");
+</style>
+<style>
+@import url("https://www.kdk.jp/sites/all/modules/contrib/date/date_api/date.css?s4rkmb");
+@import url("https://www.kdk.jp/modules/field/theme/field.css?s4rkmb");
+@import url("https://www.kdk.jp/modules/node/node.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/custom/web_animation/css/custom.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/views/css/views.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?s4rkmb");
+</style>
+<style>
+@import url("https://www.kdk.jp/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/ctools/css/ctools.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/easychart/modules/easychart_wysiwyg/plugins/css/plugin.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/lightbox2/css/lightbox.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/panels/css/panels.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/custom/peshk_category_drop_down/css/category_drop_down.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/custom/product_comparison/css/comparison.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/custom/product_selection/css/selection.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/contrib/video/css/video.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?s4rkmb");
+</style>
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" media="all" />
+<style>
+@import url("https://www.kdk.jp/sites/all/modules/custom/peshk_product_variation/peshk_product_variation.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/Magnific-Popup-master/dist/magnific-popup.css?s4rkmb");
+</style>
+<style>#sliding-popup.sliding-popup-top,#sliding-popup.sliding-popup-top .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#d8d8d8;}#sliding-popup.sliding-popup-top.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-more-button,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#313131 !important;}.eu-cookie-withdraw-tab{border-color:#313131;}#sliding-popup.sliding-popup-top{position:fixed;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.7/css/bootstrap.css" media="all" />
+<style>
+@import url("https://www.kdk.jp/sites/all/themes/bootstrap/css/3.3.5/overrides.min.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/style.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/flexslider.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/ext.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/style-override.css?s4rkmb");
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/style-kdk.css?s4rkmb");
+</style>
+<style media="print">
+@import url("https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/css/print.css?s4rkmb");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.kdk.jp/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.kdk.jp/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="https://www.kdk.jp/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script src="https://www.kdk.jp/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.kdk.jp/misc/drupal.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/field_group/horizontal-tabs/horizontal-tabs.js?v=1.0"></script>
+<script src="https://www.kdk.jp/misc/form.js?v=7.73"></script>
+<script src="https://cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.js"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/peshk_product_market/assets/js/peshk_product_market.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/peshk_product_market/assets/js/imagesloaded.pkgd.min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/peshk_product_market/assets/js/jquery.cookie.min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/libraries/colorbox/jquery.colorbox-min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/colorbox/js/colorbox.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/lightbox2/js/lightbox.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/product_comparison/js/math.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/product_comparison/js/comparison.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/product_selection/js/math.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/product_selection/js/selection.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/video/js/video.js?s4rkmb"></script>
+<script src="https://code.highcharts.com/10.3.3/highcharts.js"></script>
+<script src="https://code.highcharts.com/10.3.3/modules/exporting.js"></script>
+<script src="https://rawgithub.com/highcharts/draggable-points/master/draggable-points.js"></script>
+<script src="https://highcharts.github.io/export-csv/export-csv.js"></script>
+<script src="https://malsup.github.io/jquery.cycle.all.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="https://www.kdk.jp/sites/all/modules/custom/peshk_product_variation/peshk_product_variation.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/Magnific-Popup-master/dist/jquery.magnific-popup.min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/bootstrap/js/misc/_collapse.js?v=7.73"></script>
+<script src="https://www.kdk.jp/sites/all/modules/contrib/field_group/field_group.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/jquery.flexslider-min.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/peshk.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/slideshow.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/product.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/banner.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/ext.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/themes/digisalad_peshk_theme/js/custom.js?s4rkmb"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"digisaladPeshkTheme","theme_token":"fqAU-wSyHBmnemyE35lMXzMoKu1JjdwK3L2M_6dgBws","js":{"0":1,"1":1,"":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/field_group\/horizontal-tabs\/horizontal-tabs.js":1,"misc\/form.js":1,"https:\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/peshk_product_market\/assets\/js\/peshk_product_market.js":1,"sites\/all\/modules\/custom\/peshk_product_market\/assets\/js\/imagesloaded.pkgd.min.js":1,"sites\/all\/modules\/custom\/peshk_product_market\/assets\/js\/jquery.cookie.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/custom\/product_comparison\/js\/math.js":1,"sites\/all\/modules\/custom\/product_comparison\/js\/comparison.js":1,"sites\/all\/modules\/custom\/product_selection\/js\/math.js":1,"sites\/all\/modules\/custom\/product_selection\/js\/selection.js":1,"sites\/all\/modules\/contrib\/video\/js\/video.js":1,"https:\/\/code.highcharts.com\/10.3.3\/highcharts.js":1,"https:\/\/code.highcharts.com\/10.3.3\/modules\/exporting.js":1,"https:\/\/rawgithub.com\/highcharts\/draggable-points\/master\/draggable-points.js":1,"https:\/\/highcharts.github.io\/export-csv\/export-csv.js":1,"https:\/\/malsup.github.io\/jquery.cycle.all.js":1,"https:\/\/cdn.jsdelivr.net\/npm\/slick-carousel@1.8.1\/slick\/slick.min.js":1,"sites\/all\/modules\/custom\/peshk_product_variation\/peshk_product_variation.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/Magnific-Popup-master\/dist\/jquery.magnific-popup.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_collapse.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/peshk.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/slideshow.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/product.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/banner.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/ext.js":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/field_group\/horizontal-tabs\/horizontal-tabs.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/web_animation\/css\/custom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/easychart\/modules\/easychart_wysiwyg\/plugins\/css\/plugin.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/peshk_category_drop_down\/css\/category_drop_down.css":1,"sites\/all\/modules\/custom\/product_comparison\/css\/comparison.css":1,"sites\/all\/modules\/custom\/product_selection\/css\/selection.css":1,"sites\/all\/modules\/contrib\/video\/css\/video.css":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"https:\/\/fonts.googleapis.com\/css?family=Open+Sans+Condensed:300,300i,700":1,"https:\/\/cdn.jsdelivr.net\/npm\/slick-carousel@1.8.1\/slick\/slick.css":1,"sites\/all\/modules\/custom\/peshk_product_variation\/peshk_product_variation.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/js\/Magnific-Popup-master\/dist\/magnific-popup.css":1,"0":1,"https:\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/style.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/flexslider.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/ext.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/style-override.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/style-kdk.css":1,"sites\/all\/themes\/digisalad_peshk_theme\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Wget\/1.24.5"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EOur website uses cookies and similar tools to improve its performance and enhance your user experience and by continring to use this website without changing your settings, you consent to their use. To find out more about the cookies we use or how to change you settings, please see our\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ECookie policy\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EDecline\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ECookie policy\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EDecline\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookie-policy","popup_link_new_window":1,"popup_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"opt_in","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false},"urlIsAjaxTrusted":{"\/product\/40BEBH":true},"field_group":{"div":"full","htab":"full","htabs":"full","fieldset":"full"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-11348 node-type-product i18n-en">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar container-fluid navbar-default">
+
+  <div class="container">
+    <div class="container-fluid row">
+      <div class="navbar-header">
+        <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="/sites/all/themes/digisalad_peshk_theme/images/kdk-logo.jpg"
+               alt="Home"/>
+        </a>
+          
+					<a class="mobile-search" href="#"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></a>
+
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+              <img src="/sites/all/themes/digisalad_peshk_theme/images/menu-button-black.png" alt="Menu"/>
+            </button>
+                </div>
+
+                  <div class="navbar-collapse collapse" id="navbar-collapse">
+            <nav role="navigation">
+                                    <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/category" title="">Products</a></li>
+<li class="collapsed"><a href="/solution-centre">Solution Centre</a></li>
+<li class="collapsed"><a href="/events-and-promotions">Event &amp; Promotion</a></li>
+<li class="collapsed"><a href="/support/faq" title="">Support</a></li>
+<li class="last collapsed"><a href="/about-us/our-brand">About KDK</a></li>
+</ul>                
+                
+                                      <div class="region region-navigation">
+    <section id="block-menu-menu-toolbar-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/contact-us" title="">Contact Us</a></li>
+<li class="last leaf"><a href="/worldwide-agent" title="">Worldwide Agents</a></li>
+</ul>
+</section>
+<section id="block-block-5" class="block block-block text-resizer-block clearfix">
+
+      
+  <div class="text-resizer"><span class="small"><a href="javascript:resizeText('small')" tabindex="0">A</a></span> <span class="medium"><a href="javascript:resizeText('medium')" tabindex="0">A+</a></span> <span class="large"><a href="javascript:resizeText('large')" tabindex="0">A++</a></span></div>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.text-resizer-block {
+	display: inline-block;
+    position: absolute;
+    top: 33px;
+    right: 170px;
+}
+@media(max-width:980px){
+  .text-resizer-block {display:none;}
+}
+
+/*--><!]]>*/
+</style>
+</section>
+<section id="block-search-api-page-search" class="block block-search-api-page clearfix">
+
+      
+  <form action="/product/40BEBH" method="post" id="search-api-page-search-form-search" accept-charset="UTF-8"><div><div class="form-item form-item-keys-1 form-type-textfield form-group"><input placeholder="Enter your keywords" class="form-control form-text" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" /> <label class="control-label element-invisible" for="edit-keys-1">Enter your keywords</label>
+</div><input type="hidden" name="id" value="1" />
+<button type="submit" id="edit-submit-1" name="op" value="Search" class="btn btn-primary form-submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-PuhtfUgfiakzUCFX8PdNWslHVV7zGFnWw8HioTQSyjc" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_search" />
+</div></form>
+</section>
+<section id="block-block-6" class="block block-block clearfix">
+
+      
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WPV6346');</script>
+<!-- End Google Tag Manager -->
+</section>
+  </div>
+                            </nav>
+          </div>
+            </div>
+
+  </div>
+</header>
+<div class="mobile-search-wrap">
+	<section id="block-search-api-page-search--2" class="block block-search-api-page clearfix">
+
+      
+  <form action="/product/40BEBH" method="post" id="search-api-page-search-form-search--2" accept-charset="UTF-8"><div><div class="form-item form-item-keys-1 form-type-textfield form-group"><input placeholder="Enter your keywords" class="form-control form-text" type="text" id="edit-keys-1--2" name="keys_1" value="" size="15" maxlength="128" /> <label class="control-label element-invisible" for="edit-keys-1--2">Enter your keywords</label>
+</div><input type="hidden" name="id" value="1" />
+<button type="submit" id="edit-submit-1--2" name="op" value="Search" class="btn btn-primary form-submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-PPmZn_sk7HYLUjq8X51aqICEuZPCH0Npl_6Smh2HH0M" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_search" />
+</div></form>
+</section>
+</div>
+<!--<div class="mobile-search-wrap">
+	<form action="/" method="post" class="mobile-search-form">
+	  <input title="Enter the terms you wish to search for." placeholder="Search..." class=" form-text" type="text" id="" name="search_block_form" value="" size="15" maxlength="128">	
+	  <input type="hidden" name="form_id" value="search_block_form">
+	  <button type="submit" value=""><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button>
+	</form>
+</div> /-->
+<div>
+    </div>
+
+<div class="main-container container site-content ">
+
+  <header role="banner" id="page-header">
+        </header> <!-- /#page-header -->
+
+  <div class="row">
+      
+    <section class="col-sm-12">
+                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">></span> <span class="inline even"><a href="/category">Products</a></span> <span class="delimiter">></span> <span class="inline odd"><a href="/category/thermo-ventilator">Thermo Ventilator</a></span> <span class="delimiter">></span> <span class="inline even"><a href="/category/ceiling-mount-series">Ceiling Mount Series</a></span> <span class="delimiter">></span> <span class="inline odd last">40BEBH</span></div>      <a id="main-content"></a>
+                          <!--         <h1 class="page-header"></h1> -->
+        
+        
+              <div class="row">
+        <div class="col-sm-12">
+                                                                                                      <div class="region region-content">
+    <section id="block-peshk-category-drop-down-peshk-category-drop-down-block" class="block block-peshk-category-drop-down clearfix">
+
+      
+  <div class="row dropdown-list"><script>curr_value =38;</script><div class="col-sm-4 col-md-4 col-xs-12"><span class="label">Category </span><select id="first-catagory" class="form-control" ><option data-has-sub=1 value=38>Ventilating Fan</option><option data-has-sub=1 value=43>Electric Fan</option><option data-has-sub=1 value=42>Ceiling Fan</option><option data-has-sub=1 value=39>Air Moving Equipment</option><option data-has-sub=0 value=615>Energy Recovery Ventilator</option><option data-has-sub=1 value=46>Air Curtain</option><option data-has-sub=0 value=319>Hand Dryer</option><option data-has-sub=0 value=41>Rangehood</option><option data-has-sub=1 value=40>Thermo Ventilator</option><option data-has-sub=1 value=45>Air Purifier</option><option data-has-sub=1 value=44>Dehumidifier</option><option data-has-sub=1 value=88>Accessory</option></select></div><div class="col-sm-4 col-md-4 col-xs-12"><span  class="label">Sub Category </span><select id="second-catagory" class="form-control" ></select></div><div class="col-sm-4 col-md-4 col-xs-12"><span  class="label">Product </span><select id="product" class="form-control" ></select></div><script>productList =[{"catagory_id":"78","product_name":"2509UA","product_id":"11195","product_link":"product\/2509ua","nodequeue_position":"8"},{"catagory_id":"78","product_name":"3009UA","product_id":"11196","product_link":"product\/3009ua","nodequeue_position":"5"},{"catagory_id":"78","product_name":"3509UA","product_id":"11197","product_link":"product\/3509ua","nodequeue_position":"4"},{"catagory_id":"78","product_name":"4009UA","product_id":"11198","product_link":"product\/4009ua","nodequeue_position":"1"},{"catagory_id":"78","product_name":"08ESK","product_id":"11199","product_link":"product\/08esk","nodequeue_position":"12"},{"catagory_id":"78","product_name":"10ESK","product_id":"11200","product_link":"product\/10esk","nodequeue_position":"11"},{"catagory_id":"78","product_name":"12ESK","product_id":"11201","product_link":"product\/12esk","nodequeue_position":"10"},{"catagory_id":"78","product_name":"14ESK","product_id":"11202","product_link":"product\/14esk","nodequeue_position":"9"},{"catagory_id":"79","product_name":"2512UA","product_id":"11203","product_link":"product\/2512ua","nodequeue_position":"8"},{"catagory_id":"79","product_name":"3012UA","product_id":"11204","product_link":"product\/3012ua","nodequeue_position":"5"},{"catagory_id":"79","product_name":"3512UA","product_id":"11205","product_link":"product\/3512ua","nodequeue_position":"4"},{"catagory_id":"79","product_name":"4012UA","product_id":"11206","product_link":"product\/4012ua","nodequeue_position":"1"},{"catagory_id":"79","product_name":"08ELK","product_id":"11207","product_link":"product\/08elk","nodequeue_position":"12"},{"catagory_id":"79","product_name":"10ELK","product_id":"11208","product_link":"product\/10elk","nodequeue_position":"11"},{"catagory_id":"79","product_name":"12ELK","product_id":"11209","product_link":"product\/12elk","nodequeue_position":"10"},{"catagory_id":"79","product_name":"14ELK","product_id":"11210","product_link":"product\/14elk","nodequeue_position":"9"},{"catagory_id":"292","product_name":"2515UA","product_id":"11211","product_link":"product\/2515ua","nodequeue_position":"8"},{"catagory_id":"292","product_name":"3015UA","product_id":"11212","product_link":"product\/3015ua","nodequeue_position":"5"},{"catagory_id":"292","product_name":"3515UA","product_id":"11213","product_link":"product\/3515ua","nodequeue_position":"4"},{"catagory_id":"292","product_name":"4015UA","product_id":"11214","product_link":"product\/4015ua","nodequeue_position":"1"},{"catagory_id":"54","product_name":"12NSB","product_id":"11215","product_link":"product\/12nsb","nodequeue_position":"11"},{"catagory_id":"54","product_name":"15NSB","product_id":"11216","product_link":"product\/15nsb","nodequeue_position":"10"},{"catagory_id":"54","product_name":"18NFB","product_id":"11217","product_link":"product\/18nfb","nodequeue_position":"9"},{"catagory_id":"54","product_name":"18NSB","product_id":"11218","product_link":"product\/18nsb","nodequeue_position":"8"},{"catagory_id":"54","product_name":"20NSB","product_id":"11219","product_link":"product\/20nsb","nodequeue_position":"7"},{"catagory_id":"54","product_name":"23NLB","product_id":"11220","product_link":"product\/23nlb","nodequeue_position":"6"},{"catagory_id":"54","product_name":"25NFB","product_id":"11221","product_link":"product\/25nfb","nodequeue_position":"5"},{"catagory_id":"54","product_name":"25NSB","product_id":"11222","product_link":"product\/25nsb","nodequeue_position":"4"},{"catagory_id":"54","product_name":"25SMC","product_id":"11223","product_link":"product\/25smc","nodequeue_position":"3"},{"catagory_id":"54","product_name":"25SWC","product_id":"11224","product_link":"product\/25swc","nodequeue_position":"2"},{"catagory_id":"54","product_name":"28NXC","product_id":"11225","product_link":"product\/28nxc","nodequeue_position":"1"},{"catagory_id":"49","product_name":"24CMDA","product_id":"11226","product_link":"product\/24cmda","nodequeue_position":"16"},{"catagory_id":"49","product_name":"24JRB","product_id":"11227","product_link":"product\/24jrb","nodequeue_position":"7"},{"catagory_id":"49","product_name":"24JAB","product_id":"11228","product_link":"product\/24jab","nodequeue_position":"8"},{"catagory_id":"49","product_name":"17CUG","product_id":"11229","product_link":"product\/17cug","nodequeue_position":"27"},{"catagory_id":"49","product_name":"24CUG","product_id":"11230","product_link":"product\/24cug","nodequeue_position":"12"},{"catagory_id":"49","product_name":"24CDG","product_id":"11231","product_link":"product\/24cdg","nodequeue_position":"23"},{"catagory_id":"49","product_name":"24CHG","product_id":"11232","product_link":"product\/24chg","nodequeue_position":"20"},{"catagory_id":"49","product_name":"24CUF","product_id":"11234","product_link":"product\/24cuf","nodequeue_position":"13"},{"catagory_id":"49","product_name":"24CHF","product_id":"11236","product_link":"product\/24chf","nodequeue_position":"21"},{"catagory_id":"49","product_name":"27CHH","product_id":"11237","product_link":"product\/27chh","nodequeue_position":"6"},{"catagory_id":"49","product_name":"32CDH","product_id":"11238","product_link":"product\/32cdh","nodequeue_position":"4"},{"catagory_id":"49","product_name":"32CHH","product_id":"11239","product_link":"product\/32chh","nodequeue_position":"3"},{"catagory_id":"49","product_name":"38CDG","product_id":"11240","product_link":"product\/38cdg","nodequeue_position":"2"},{"catagory_id":"49","product_name":"38CHG","product_id":"11241","product_link":"product\/38chg","nodequeue_position":"1"},{"catagory_id":"49","product_name":"20CQT1","product_id":"11243","product_link":"product\/20cqt1","nodequeue_position":"25"},{"catagory_id":"49","product_name":"24CMUA","product_id":"11244","product_link":"product\/24cmua","nodequeue_position":"14"},{"catagory_id":"49","product_name":"24CMHA","product_id":"11245","product_link":"product\/24cmha","nodequeue_position":"15"},{"catagory_id":"49","product_name":"27CMHA","product_id":"11246","product_link":"product\/27cmha","nodequeue_position":"5"},{"catagory_id":"55","product_name":"K25DSF2NET","product_id":"11250","product_link":"product\/k25dsf2net","nodequeue_position":"10"},{"catagory_id":"55","product_name":"K28DSM2NET","product_id":"11251","product_link":"product\/k28dsm2net","nodequeue_position":"9"},{"catagory_id":"55","product_name":"K35DSM2NET","product_id":"11252","product_link":"product\/k35dsm2net","nodequeue_position":"8"},{"catagory_id":"55","product_name":"K40DSL2NET","product_id":"11253","product_link":"product\/k40dsl2net","nodequeue_position":"6"},{"catagory_id":"55","product_name":"K40DSH2NET","product_id":"11254","product_link":"product\/k40dsh2net","nodequeue_position":"7"},{"catagory_id":"55","product_name":"K45DST2NET","product_id":"11255","product_link":"product\/k45dst2net","nodequeue_position":"3"},{"catagory_id":"55","product_name":"K40DTL2BET","product_id":"11256","product_link":"product\/k40dtl2bet","nodequeue_position":"4"},{"catagory_id":"55","product_name":"K40DTH2BET","product_id":"11257","product_link":"product\/k40dth2bet","nodequeue_position":"5"},{"catagory_id":"55","product_name":"K45DTT2BET","product_id":"11258","product_link":"product\/k45dtt2bet","nodequeue_position":"1"},{"catagory_id":"55","product_name":"K45DTH2BET","product_id":"11259","product_link":"product\/k45dth2bet","nodequeue_position":"2"},{"catagory_id":"75","product_name":"GCK27H","product_id":"11261","product_link":"product\/gck27h","nodequeue_position":"2"},{"catagory_id":"75","product_name":"GCM33H","product_id":"11262","product_link":"product\/gcm33h","nodequeue_position":"4"},{"catagory_id":"75","product_name":"GCL16H","product_id":"11263","product_link":"product\/gcl16h","nodequeue_position":"3"},{"catagory_id":"75","product_name":"GCH23H","product_id":"11264","product_link":"product\/gch23h","nodequeue_position":"1"},{"catagory_id":"75","product_name":"GCR14H","product_id":"11265","product_link":"product\/gcr14h","nodequeue_position":"5"},{"catagory_id":"71","product_name":"R40RH","product_id":"11266","product_link":"product\/r40rh","nodequeue_position":"1"},{"catagory_id":"71","product_name":"M40R","product_id":"11267","product_link":"product\/m40r","nodequeue_position":"3"},{"catagory_id":"71","product_name":"M40RS","product_id":"11268","product_link":"product\/m40rs","nodequeue_position":"2"},{"catagory_id":"293","product_name":"T60AW","product_id":"11269","product_link":"product\/t60aw","nodequeue_position":"1"},{"catagory_id":"293","product_name":"T60DW","product_id":"11270","product_link":"product\/t60dw","nodequeue_position":"2"},{"catagory_id":"74","product_name":"GZJ90H","product_id":"11271","product_link":"product\/gzj90h","nodequeue_position":"1"},{"catagory_id":"68","product_name":"A30A","product_id":"11272","product_link":"product\/a30a","nodequeue_position":"13"},{"catagory_id":"68","product_name":"A30AS","product_id":"11273","product_link":"product\/a30as","nodequeue_position":"12"},{"catagory_id":"68","product_name":"A30F","product_id":"11274","product_link":"product\/a30f","nodequeue_position":"11"},{"catagory_id":"68","product_name":"V30AH","product_id":"11275","product_link":"product\/v30ah","nodequeue_position":"6"},{"catagory_id":"68","product_name":"V30FH","product_id":"11276","product_link":"product\/v30fh","nodequeue_position":"5"},{"catagory_id":"68","product_name":"V35AH","product_id":"11277","product_link":"product\/v35ah","nodequeue_position":"4"},{"catagory_id":"68","product_name":"V35FH","product_id":"11278","product_link":"product\/v35fh","nodequeue_position":"3"},{"catagory_id":"68","product_name":"A40A","product_id":"11279","product_link":"product\/a40a","nodequeue_position":"10"},{"catagory_id":"68","product_name":"A40AS","product_id":"11280","product_link":"product\/a40as","nodequeue_position":"9"},{"catagory_id":"68","product_name":"A40F","product_id":"11281","product_link":"product\/a40f","nodequeue_position":"7"},{"catagory_id":"68","product_name":"A40B","product_id":"11282","product_link":"product\/a40b","nodequeue_position":"8"},{"catagory_id":"68","product_name":"V40AH","product_id":"11283","product_link":"product\/v40ah","nodequeue_position":"2"},{"catagory_id":"68","product_name":"V40FH","product_id":"11284","product_link":"product\/v40fh","nodequeue_position":"1"},{"catagory_id":"615","product_name":"E25DZUA","product_id":"11285","product_link":"product\/e25dzua","nodequeue_position":"3"},{"catagory_id":"615","product_name":"E35DZUA","product_id":"11286","product_link":"product\/e35dzua","nodequeue_position":"2"},{"catagory_id":"615","product_name":"E50DZUA","product_id":"11287","product_link":"product\/e50dzua","nodequeue_position":"1"},{"catagory_id":"319","product_name":"T10TA","product_id":"11288","product_link":"product\/t10ta","nodequeue_position":"1"},{"catagory_id":"319","product_name":"T09AC","product_id":"11289","product_link":"product\/t09ac","nodequeue_position":"3"},{"catagory_id":"319","product_name":"T09BC","product_id":"11290","product_link":"product\/t09bc","nodequeue_position":"2"},{"catagory_id":"76","product_name":"MCM85A","product_id":"11291","product_link":"product\/mcm85a","nodequeue_position":"2"},{"catagory_id":"76","product_name":"MCM85M","product_id":"11292","product_link":"product\/mcm85m","nodequeue_position":"1"},{"catagory_id":"76","product_name":"RVL40H","product_id":"11293","product_link":"product\/rvl40h","nodequeue_position":"3"},{"catagory_id":"73","product_name":"GHC12X","product_id":"11294","product_link":"product\/ghc12x","nodequeue_position":"1"},{"catagory_id":"53","product_name":"25GSC","product_id":"11295","product_link":"product\/25gsc","nodequeue_position":"17"},{"catagory_id":"53","product_name":"30GSC","product_id":"11296","product_link":"product\/30gsc","nodequeue_position":"15"},{"catagory_id":"53","product_name":"30KQT","product_id":"11297","product_link":"product\/30kqt","nodequeue_position":"13"},{"catagory_id":"53","product_name":"35GSC","product_id":"11298","product_link":"product\/35gsc","nodequeue_position":"12"},{"catagory_id":"53","product_name":"40GSC","product_id":"11299","product_link":"product\/40gsc","nodequeue_position":"10"},{"catagory_id":"53","product_name":"40KQT","product_id":"11300","product_link":"product\/40kqt","nodequeue_position":"8"},{"catagory_id":"53","product_name":"45GSC","product_id":"11301","product_link":"product\/45gsc","nodequeue_position":"7"},{"catagory_id":"53","product_name":"45GTC","product_id":"11302","product_link":"product\/45gtc","nodequeue_position":"6"},{"catagory_id":"53","product_name":"50AEQ2","product_id":"11303","product_link":"product\/50aeq2","nodequeue_position":"5"},{"catagory_id":"53","product_name":"50GSC","product_id":"11304","product_link":"product\/50gsc","nodequeue_position":"4"},{"catagory_id":"53","product_name":"50GTC","product_id":"11305","product_link":"product\/50gtc","nodequeue_position":"3"},{"catagory_id":"53","product_name":"60GSC","product_id":"11306","product_link":"product\/60gsc","nodequeue_position":"2"},{"catagory_id":"53","product_name":"60GTC","product_id":"11307","product_link":"product\/60gtc","nodequeue_position":"1"},{"catagory_id":"53","product_name":"25GSE","product_id":"11308","product_link":"product\/25gse","nodequeue_position":"16"},{"catagory_id":"53","product_name":"30GSE","product_id":"11309","product_link":"product\/30gse","nodequeue_position":"14"},{"catagory_id":"53","product_name":"35GSE","product_id":"11310","product_link":"product\/35gse","nodequeue_position":"11"},{"catagory_id":"53","product_name":"40GSE","product_id":"11311","product_link":"product\/40gse","nodequeue_position":"9"},{"catagory_id":"64","product_name":"M56LG","product_id":"11312","product_link":"product\/m56lg","nodequeue_position":"3"},{"catagory_id":"64","product_name":"N56LG","product_id":"11313","product_link":"product\/n56lg","nodequeue_position":"2"},{"catagory_id":"64","product_name":"N48LG","product_id":"11314","product_link":"product\/n48lg","nodequeue_position":"4"},{"catagory_id":"64","product_name":"N56YG","product_id":"11315","product_link":"product\/n56yg","nodequeue_position":"1"},{"catagory_id":"65","product_name":"PL30H","product_id":"11316","product_link":"product\/pl30h","nodequeue_position":"8"},{"catagory_id":"65","product_name":"SM30H","product_id":"11317","product_link":"product\/sm30h","nodequeue_position":"9"},{"catagory_id":"65","product_name":"P30KH","product_id":"11319","product_link":"product\/p30kh","nodequeue_position":"7"},{"catagory_id":"65","product_name":"N30NH","product_id":"11320","product_link":"product\/n30nh","nodequeue_position":"6"},{"catagory_id":"65","product_name":"M40KS","product_id":"11321","product_link":"product\/m40ks","nodequeue_position":"3"},{"catagory_id":"65","product_name":"N40HS","product_id":"11322","product_link":"product\/n40hs","nodequeue_position":"5"},{"catagory_id":"69","product_name":"SC30H","product_id":"11323","product_link":"product\/sc30h","nodequeue_position":"8"},{"catagory_id":"69","product_name":"SC30X","product_id":"11324","product_link":"product\/sc30x","nodequeue_position":"7"},{"catagory_id":"69","product_name":"SD30H","product_id":"11325","product_link":"product\/sd30h","nodequeue_position":"6"},{"catagory_id":"69","product_name":"SD30X","product_id":"11326","product_link":"product\/sd30x","nodequeue_position":"5"},{"catagory_id":"69","product_name":"SS30H","product_id":"11327","product_link":"product\/ss30h","nodequeue_position":"4"},{"catagory_id":"69","product_name":"SS30X","product_id":"11328","product_link":"product\/ss30x","nodequeue_position":"3"},{"catagory_id":"69","product_name":"ST30H","product_id":"11329","product_link":"product\/st30h","nodequeue_position":"2"},{"catagory_id":"69","product_name":"ST30X","product_id":"11330","product_link":"product\/st30x","nodequeue_position":"1"},{"catagory_id":"63","product_name":"S44XU","product_id":"11331","product_link":"product\/s44xu","nodequeue_position":"2"},{"catagory_id":"63","product_name":"M11SU","product_id":"11332","product_link":"product\/m11su","nodequeue_position":"3"},{"catagory_id":"63","product_name":"R48SP","product_id":"11333","product_link":"product\/r48sp","nodequeue_position":"1"},{"catagory_id":"56","product_name":"K10CG1","product_id":"11334","product_link":"product\/k10cg1","nodequeue_position":"8"},{"catagory_id":"56","product_name":"K12CG1","product_id":"11335","product_link":"product\/k12cg1","nodequeue_position":"7"},{"catagory_id":"56","product_name":"K14CG1","product_id":"11336","product_link":"product\/k14cg1","nodequeue_position":"6"},{"catagory_id":"56","product_name":"K16CG1","product_id":"11337","product_link":"product\/k16cg1","nodequeue_position":"5"},{"catagory_id":"56","product_name":"K17CG1","product_id":"11338","product_link":"product\/k17cg1","nodequeue_position":"4"},{"catagory_id":"56","product_name":"K19CG1","product_id":"11339","product_link":"product\/k19cg1","nodequeue_position":"3"},{"catagory_id":"56","product_name":"K21CG1","product_id":"11340","product_link":"product\/k21cg1","nodequeue_position":"2"},{"catagory_id":"56","product_name":"K21CT1","product_id":"11341","product_link":"product\/k21ct1","nodequeue_position":"1"},{"catagory_id":"298","product_name":"MGX100K","product_id":"11343","product_link":"product\/mgx100k","nodequeue_position":"2"},{"catagory_id":"298","product_name":"MGX150K ","product_id":"11344","product_link":"product\/mgx150k","nodequeue_position":"1"},{"catagory_id":"298","product_name":"MCX100K","product_id":"11345","product_link":"product\/mcx100k","nodequeue_position":"4"},{"catagory_id":"298","product_name":"MCX150K ","product_id":"11346","product_link":"product\/mcx150k","nodequeue_position":"3"},{"catagory_id":"59","product_name":"30BWBH","product_id":"11347","product_link":"product\/30bwbh","nodequeue_position":"2"},{"catagory_id":"60","product_name":"40BEBH","product_id":"11348","product_link":"product\/40bebh","nodequeue_position":"2"},{"catagory_id":"59","product_name":"23BWAH","product_id":"11349","product_link":"product\/23bwah","nodequeue_position":"1"},{"catagory_id":"60","product_name":"30BGCH","product_id":"11350","product_link":"product\/30bgch","nodequeue_position":"4"},{"catagory_id":"61","product_name":"M56QR","product_id":"11351","product_link":"product\/m56qr","nodequeue_position":"10"},{"catagory_id":"61","product_name":"M56SR","product_id":"11352","product_link":"product\/m56sr","nodequeue_position":"9"},{"catagory_id":"61","product_name":"R60VW","product_id":"11353","product_link":"product\/r60vw","nodequeue_position":"3"},{"catagory_id":"61","product_name":"V60WK","product_id":"11354","product_link":"product\/v60wk","nodequeue_position":"2"},{"catagory_id":"61","product_name":"V56VK","product_id":"11355","product_link":"product\/v56vk","nodequeue_position":"4"},{"catagory_id":"61","product_name":"Z60WS","product_id":"11356","product_link":"product\/z60ws","nodequeue_position":"1"},{"catagory_id":"61","product_name":"M56XR","product_id":"11357","product_link":"product\/m56xr","nodequeue_position":"8"},{"catagory_id":"61","product_name":"M56PR","product_id":"11358","product_link":"product\/m56pr","nodequeue_position":"11"},{"catagory_id":"61","product_name":"U56PR","product_id":"11359","product_link":"product\/u56pr","nodequeue_position":"5"},{"catagory_id":"293","product_name":"U48FP","product_id":"11360","product_link":"product\/u48fp","nodequeue_position":"5"},{"catagory_id":"293","product_name":"U60FW","product_id":"11361","product_link":"product\/u60fw","nodequeue_position":"3"},{"catagory_id":"61","product_name":"R56SV","product_id":"11362","product_link":"product\/r56sv","nodequeue_position":"7"},{"catagory_id":"293","product_name":"W56WV","product_id":"11363","product_link":"product\/w56wv","nodequeue_position":"4"},{"catagory_id":"61","product_name":"S56XV","product_id":"11364","product_link":"product\/s56xv","nodequeue_position":"6"},{"catagory_id":"87","product_name":"P40VS","product_id":"11365","product_link":"product\/p40vs","nodequeue_position":"5"},{"catagory_id":"87","product_name":"P40WS","product_id":"11366","product_link":"product\/p40ws","nodequeue_position":"3"},{"catagory_id":"87","product_name":"P41U","product_id":"11367","product_link":"product\/p41u","nodequeue_position":"1"},{"catagory_id":"87","product_name":"B40UK","product_id":"11368","product_link":"product\/b40uk","nodequeue_position":"10"},{"catagory_id":"87","product_name":"B41UK","product_id":"11369","product_link":"product\/b41uk","nodequeue_position":"2"},{"catagory_id":"87","product_name":"P40W","product_id":"11370","product_link":"product\/p40w","nodequeue_position":"4"},{"catagory_id":"87","product_name":"P40V","product_id":"11371","product_link":"product\/p40v","nodequeue_position":"7"},{"catagory_id":"87","product_name":"P40VH","product_id":"11372","product_link":"product\/p40vh","nodequeue_position":"6"},{"catagory_id":"87","product_name":"P40U","product_id":"11373","product_link":"product\/p40u","nodequeue_position":"9"},{"catagory_id":"87","product_name":"P40US","product_id":"11374","product_link":"product\/p40us","nodequeue_position":"8"},{"catagory_id":"77","product_name":"RXL55H","product_id":"11375","product_link":"product\/rxl55h","nodequeue_position":"1"},{"catagory_id":"77","product_name":"RXL35H","product_id":"11377","product_link":"product\/rxl35h","nodequeue_position":"2"},{"catagory_id":"62","product_name":"N56RG","product_id":"11378","product_link":"product\/n56rg","nodequeue_position":"6"},{"catagory_id":"62","product_name":"M56RG","product_id":"11379","product_link":"product\/m56rg","nodequeue_position":"10"},{"catagory_id":"62","product_name":"T48XC","product_id":"11380","product_link":"product\/t48xc","nodequeue_position":"14"},{"catagory_id":"62","product_name":"T56XC","product_id":"11381","product_link":"product\/t56xc","nodequeue_position":"8"},{"catagory_id":"62","product_name":"M48XG","product_id":"11382","product_link":"product\/m48xg","nodequeue_position":"15"},{"catagory_id":"62","product_name":"M48SG","product_id":"11383","product_link":"product\/m48sg","nodequeue_position":"17"},{"catagory_id":"62","product_name":"M48WG","product_id":"11384","product_link":"product\/m48wg","nodequeue_position":"16"},{"catagory_id":"62","product_name":"M60XG","product_id":"11385","product_link":"product\/m60xg","nodequeue_position":"1"},{"catagory_id":"62","product_name":"M60SG","product_id":"11386","product_link":"product\/m60sg","nodequeue_position":"3"},{"catagory_id":"62","product_name":"M60WG","product_id":"11387","product_link":"product\/m60wg","nodequeue_position":"2"},{"catagory_id":"62","product_name":"M56XG","product_id":"11388","product_link":"product\/m56xg","nodequeue_position":"9"},{"catagory_id":"62","product_name":"X48XC","product_id":"11389","product_link":"product\/x48xc","nodequeue_position":"12"},{"catagory_id":"62","product_name":"X56XC","product_id":"11390","product_link":"product\/x56xc","nodequeue_position":"5"},{"catagory_id":"62","product_name":"T48XG","product_id":"11391","product_link":"product\/t48xg","nodequeue_position":"13"},{"catagory_id":"62","product_name":"T56XG","product_id":"11392","product_link":"product\/t56xg","nodequeue_position":"7"},{"catagory_id":"62","product_name":"X48XG","product_id":"11393","product_link":"product\/x48xg","nodequeue_position":"11"},{"catagory_id":"62","product_name":"X56XG","product_id":"11394","product_link":"product\/x56xg","nodequeue_position":"4"},{"catagory_id":"299","product_name":"VGX100K","product_id":"11395","product_link":"product\/vgx100k","nodequeue_position":"2"},{"catagory_id":"299","product_name":"VGX150K","product_id":"11396","product_link":"product\/vgx150k","nodequeue_position":"1"},{"catagory_id":"299","product_name":"VCX100K","product_id":"11397","product_link":"product\/vcx100k","nodequeue_position":"4"},{"catagory_id":"299","product_name":"VCX150K ","product_id":"11398","product_link":"product\/vcx150k","nodequeue_position":"3"},{"catagory_id":"70","product_name":"M30C","product_id":"11399","product_link":"product\/m30c","nodequeue_position":"12"},{"catagory_id":"70","product_name":"M30CH","product_id":"11400","product_link":"product\/m30ch","nodequeue_position":"11"},{"catagory_id":"70","product_name":"M30CS","product_id":"11401","product_link":"product\/m30cs","nodequeue_position":"10"},{"catagory_id":"70","product_name":"M35CH","product_id":"11402","product_link":"product\/m35ch","nodequeue_position":"9"},{"catagory_id":"70","product_name":"R40CH","product_id":"11403","product_link":"product\/r40ch","nodequeue_position":"2"},{"catagory_id":"70","product_name":"M40M","product_id":"11404","product_link":"product\/m40m","nodequeue_position":"5"},{"catagory_id":"70","product_name":"M40MH","product_id":"11405","product_link":"product\/m40mh","nodequeue_position":"4"},{"catagory_id":"70","product_name":"M40MS","product_id":"11406","product_link":"product\/m40ms","nodequeue_position":"3"},{"catagory_id":"70","product_name":"M40C","product_id":"11407","product_link":"product\/m40c","nodequeue_position":"8"},{"catagory_id":"70","product_name":"M40CH","product_id":"11408","product_link":"product\/m40ch","nodequeue_position":"7"},{"catagory_id":"70","product_name":"M40CS","product_id":"11409","product_link":"product\/m40cs","nodequeue_position":"6"},{"catagory_id":"70","product_name":"YU50X","product_id":"11410","product_link":"product\/yu50x","nodequeue_position":"1"},{"catagory_id":"50","product_name":"10EGKA","product_id":"11411","product_link":"product\/10egka","nodequeue_position":"40"},{"catagory_id":"50","product_name":"15EGKA","product_id":"11412","product_link":"product\/15egka","nodequeue_position":"36"},{"catagory_id":"50","product_name":"15EGSA","product_id":"11413","product_link":"product\/15egsa","nodequeue_position":"35"},{"catagory_id":"50","product_name":"10EGSA","product_id":"11414","product_link":"product\/10egsa","nodequeue_position":"39"},{"catagory_id":"50","product_name":"25AUFA","product_id":"11415","product_link":"product\/25aufa","nodequeue_position":"20"},{"catagory_id":"50","product_name":"15AAQ1","product_id":"11416","product_link":"product\/15aaq1","nodequeue_position":"38"},{"catagory_id":"50","product_name":"20AUHT","product_id":"11417","product_link":"product\/20auht","nodequeue_position":"29"},{"catagory_id":"50","product_name":"25AUHT","product_id":"11418","product_link":"product\/25auht","nodequeue_position":"17"},{"catagory_id":"50","product_name":"30AUHT","product_id":"11419","product_link":"product\/30auht","nodequeue_position":"5"},{"catagory_id":"50","product_name":"20ALHT","product_id":"11420","product_link":"product\/20alht","nodequeue_position":"33"},{"catagory_id":"50","product_name":"25ALHT","product_id":"11421","product_link":"product\/25alht","nodequeue_position":"22"},{"catagory_id":"50","product_name":"30ALFT","product_id":"11422","product_link":"product\/30alft","nodequeue_position":"9"},{"catagory_id":"50","product_name":"20RGFT","product_id":"11423","product_link":"product\/20rgft","nodequeue_position":"26"},{"catagory_id":"50","product_name":"25RGFT","product_id":"11424","product_link":"product\/25rgft","nodequeue_position":"14"},{"catagory_id":"50","product_name":"30RGFT","product_id":"11425","product_link":"product\/30rgft","nodequeue_position":"3"},{"catagory_id":"50","product_name":"20RLFT","product_id":"11426","product_link":"product\/20rlft","nodequeue_position":"24"},{"catagory_id":"50","product_name":"25RLFT","product_id":"11427","product_link":"product\/25rlft","nodequeue_position":"12"},{"catagory_id":"50","product_name":"30RLET","product_id":"11428","product_link":"product\/30rlet","nodequeue_position":"1"},{"catagory_id":"50","product_name":"20ASB","product_id":"11429","product_link":"product\/20asb","nodequeue_position":"32"},{"catagory_id":"50","product_name":"25ASB","product_id":"11430","product_link":"product\/25asb","nodequeue_position":"21"},{"catagory_id":"50","product_name":"30ASB","product_id":"11431","product_link":"product\/30asb","nodequeue_position":"8"},{"catagory_id":"50","product_name":"10BAQ1","product_id":"11432","product_link":"product\/10baq1","nodequeue_position":"42"},{"catagory_id":"50","product_name":"15AAQ107","product_id":"11433","product_link":"product\/15aaq107","nodequeue_position":"37"},{"catagory_id":"51","product_name":"15WJA07","product_id":"11434","product_link":"product\/15wja07","nodequeue_position":"7"},{"catagory_id":"50","product_name":"20AUH","product_id":"11435","product_link":"product\/20auh","nodequeue_position":"31"},{"catagory_id":"50","product_name":"25AUH","product_id":"11436","product_link":"product\/25auh","nodequeue_position":"19"},{"catagory_id":"50","product_name":"30AUH","product_id":"11437","product_link":"product\/30auh","nodequeue_position":"7"},{"catagory_id":"50","product_name":"20ALH","product_id":"11438","product_link":"product\/20alh","nodequeue_position":"34"},{"catagory_id":"50","product_name":"25ALH","product_id":"11439","product_link":"product\/25alh","nodequeue_position":"23"},{"catagory_id":"50","product_name":"30ALF","product_id":"11440","product_link":"product\/30alf","nodequeue_position":"11"},{"catagory_id":"50","product_name":"30ALF07","product_id":"11441","product_link":"product\/30alf07","nodequeue_position":"10"},{"catagory_id":"50","product_name":"20RGF","product_id":"11442","product_link":"product\/20rgf","nodequeue_position":"27"},{"catagory_id":"50","product_name":"25RGF","product_id":"11443","product_link":"product\/25rgf","nodequeue_position":"15"},{"catagory_id":"50","product_name":"30RGF","product_id":"11444","product_link":"product\/30rgf","nodequeue_position":"4"},{"catagory_id":"50","product_name":"20RLF","product_id":"11445","product_link":"product\/20rlf","nodequeue_position":"25"},{"catagory_id":"50","product_name":"25RLF","product_id":"11446","product_link":"product\/25rlf","nodequeue_position":"13"},{"catagory_id":"50","product_name":"30RLE","product_id":"11447","product_link":"product\/30rle","nodequeue_position":"2"},{"catagory_id":"50","product_name":"10BAQ107","product_id":"11448","product_link":"product\/10baq107","nodequeue_position":"41"},{"catagory_id":"51","product_name":"15WJA","product_id":"11449","product_link":"product\/15wja","nodequeue_position":"8"},{"catagory_id":"51","product_name":"15WHCT","product_id":"11450","product_link":"product\/15whct","nodequeue_position":"9"},{"catagory_id":"51","product_name":"20WHCT","product_id":"11451","product_link":"product\/20whct","nodequeue_position":"2"},{"catagory_id":"51","product_name":"15WUD","product_id":"11452","product_link":"product\/15wud","nodequeue_position":"6"},{"catagory_id":"51","product_name":"20WUD","product_id":"11453","product_link":"product\/20wud","nodequeue_position":"1"},{"catagory_id":"51","product_name":"15WAA","product_id":"11454","product_link":"product\/15waa","nodequeue_position":"12"},{"catagory_id":"51","product_name":"20WAA","product_id":"11455","product_link":"product\/20waa","nodequeue_position":"5"},{"catagory_id":"51","product_name":"15WAAMN","product_id":"11456","product_link":"product\/15waamn","nodequeue_position":"11"},{"catagory_id":"51","product_name":"20WAAMN","product_id":"11457","product_link":"product\/20waamn","nodequeue_position":"4"},{"catagory_id":"51","product_name":"15WHC07","product_id":"11458","product_link":"product\/15whc07","nodequeue_position":"10"},{"catagory_id":"51","product_name":"20WHC07","product_id":"11459","product_link":"product\/20whc07","nodequeue_position":"3"},{"catagory_id":"51","product_name":"15WULA07","product_id":"11460","product_link":"product\/15wula07","nodequeue_position":0},{"catagory_id":"51","product_name":"20WULA07","product_id":"11461","product_link":"product\/20wula07","nodequeue_position":0},{"catagory_id":"51","product_name":"15WUE07","product_id":"11462","product_link":"product\/15wue07","nodequeue_position":0},{"catagory_id":"51","product_name":"20WUE07","product_id":"11463","product_link":"product\/20wue07","nodequeue_position":0},{"catagory_id":"65","product_name":"N40HH","product_id":"11464","product_link":"product\/n40hh","nodequeue_position":"4"},{"catagory_id":"65","product_name":"M40KH","product_id":"11465","product_link":"product\/m40kh","nodequeue_position":"2"},{"catagory_id":"65","product_name":"M40K","product_id":"11466","product_link":"product\/m40k","nodequeue_position":"1"},{"catagory_id":"41","product_name":"90HQUA","product_id":"11467","product_link":"product\/90hqua","nodequeue_position":"1"},{"catagory_id":"41","product_name":"70HQDA","product_id":"11468","product_link":"product\/70hqda","nodequeue_position":"5"},{"catagory_id":"41","product_name":"70HQUA","product_id":"11469","product_link":"product\/70hqua","nodequeue_position":"4"},{"catagory_id":"41","product_name":"711K","product_id":"11470","product_link":"product\/711k","nodequeue_position":"3"},{"catagory_id":"41","product_name":"712K","product_id":"11471","product_link":"product\/712k","nodequeue_position":"2"},{"catagory_id":"625","product_name":"25GASC","product_id":"11472","product_link":"product\/25gasc","nodequeue_position":"7"},{"catagory_id":"625","product_name":"30GASC","product_id":"11473","product_link":"product\/30gasc","nodequeue_position":"6"},{"catagory_id":"625","product_name":"35GASC","product_id":"11474","product_link":"product\/35gasc","nodequeue_position":"5"},{"catagory_id":"625","product_name":"40GASC","product_id":"11475","product_link":"product\/40gasc","nodequeue_position":"4"},{"catagory_id":"625","product_name":"45GASC","product_id":"11476","product_link":"product\/45gasc","nodequeue_position":"3"},{"catagory_id":"625","product_name":"50GASC","product_id":"11477","product_link":"product\/50gasc","nodequeue_position":"2"},{"catagory_id":"625","product_name":"60GASC","product_id":"11478","product_link":"product\/60gasc","nodequeue_position":"1"},{"catagory_id":"50","product_name":"25DLC07","product_id":"11479","product_link":"product\/25dlc07","nodequeue_position":"16"},{"catagory_id":"50","product_name":"20DLC07","product_id":"11480","product_link":"product\/20dlc07","nodequeue_position":"28"},{"catagory_id":"49","product_name":"17CUG_SEA_Edition","product_id":"11481","product_link":"product\/17cugseaedition","nodequeue_position":"26"},{"catagory_id":"49","product_name":"24CUG_SEA_Edition","product_id":"11482","product_link":"product\/24cugseaedition","nodequeue_position":"11"},{"catagory_id":"49","product_name":"24CDG_SEA_Edition","product_id":"11483","product_link":"product\/24cdgseaedition","nodequeue_position":"22"},{"catagory_id":"49","product_name":"24CHG_SEA_Edition","product_id":"11484","product_link":"product\/24chgseaedition","nodequeue_position":"19"},{"catagory_id":"49","product_name":"24CURVA","product_id":"11485","product_link":"product\/24curva","nodequeue_position":"9"},{"catagory_id":"49","product_name":"24CHRVA","product_id":"11486","product_link":"product\/24chrva","nodequeue_position":"17"},{"catagory_id":"49","product_name":"24CURA","product_id":"11487","product_link":"product\/24cura","nodequeue_position":"10"},{"catagory_id":"49","product_name":"24CHRA","product_id":"11488","product_link":"product\/24chra","nodequeue_position":"18"},{"catagory_id":"50","product_name":"20AUH07","product_id":"11489","product_link":"product\/20auh07","nodequeue_position":"30"},{"catagory_id":"50","product_name":"25AUH07","product_id":"11490","product_link":"product\/25auh07","nodequeue_position":"18"},{"catagory_id":"50","product_name":"30AUH07","product_id":"11491","product_link":"product\/30auh07","nodequeue_position":"6"},{"catagory_id":"630","product_name":"EB90SA","product_id":"11492","product_link":"product\/eb90sa","nodequeue_position":"1"},{"catagory_id":"631","product_name":"BE25DZUA","product_id":"11493","product_link":"product\/be25dzua","nodequeue_position":"2"},{"catagory_id":"631","product_name":"BE50DZUA","product_id":"11494","product_link":"product\/be50dzua","nodequeue_position":"1"},{"catagory_id":"78","product_name":"3009DA","product_id":"11495","product_link":"product\/3009da","nodequeue_position":"7"},{"catagory_id":"79","product_name":"3012DA","product_id":"11496","product_link":"product\/3012da","nodequeue_position":"7"},{"catagory_id":"292","product_name":"3015DA","product_id":"11497","product_link":"product\/3015da","nodequeue_position":"7"},{"catagory_id":"78","product_name":"4009DA","product_id":"11498","product_link":"product\/4009da","nodequeue_position":"3"},{"catagory_id":"79","product_name":"4012DA","product_id":"11499","product_link":"product\/4012da","nodequeue_position":"3"},{"catagory_id":"292","product_name":"4015DA","product_id":"11500","product_link":"product\/4015da","nodequeue_position":"3"},{"catagory_id":"78","product_name":"3009GA","product_id":"11501","product_link":"product\/3009ga","nodequeue_position":"6"},{"catagory_id":"79","product_name":"3012GA","product_id":"11502","product_link":"product\/3012ga","nodequeue_position":"6"},{"catagory_id":"292","product_name":"3015GA","product_id":"11503","product_link":"product\/3015ga","nodequeue_position":"6"},{"catagory_id":"78","product_name":"4009GA","product_id":"11504","product_link":"product\/4009ga","nodequeue_position":"2"},{"catagory_id":"79","product_name":"4012GA","product_id":"11505","product_link":"product\/4012ga","nodequeue_position":"2"},{"catagory_id":"292","product_name":"4015GA","product_id":"11506","product_link":"product\/4015ga","nodequeue_position":"2"},{"catagory_id":"60","product_name":"40BECH","product_id":"11507","product_link":"product\/40bech","nodequeue_position":"1"},{"catagory_id":"60","product_name":"30BUC","product_id":"11508","product_link":"product\/30buc","nodequeue_position":"3"},{"catagory_id":"51","product_name":"15WUDMN","product_id":"14499","product_link":"product\/15wudmn","nodequeue_position":"13"},{"catagory_id":"51","product_name":"20WUDMN","product_id":"14502","product_link":"product\/20wudmn","nodequeue_position":"14"},{"catagory_id":"70","product_name":"UU45X","product_id":"14527","product_link":"product\/uu45x","nodequeue_position":"13"},{"catagory_id":"293","product_name":"E48GP","product_id":"14532","product_link":"product\/e48gp","nodequeue_position":"7"},{"catagory_id":"293","product_name":"E48HP","product_id":"14533","product_link":"product\/e48hp","nodequeue_position":"6"},{"catagory_id":"50","product_name":"20AUA","product_id":"14534","product_link":"product\/20aua","nodequeue_position":"54"},{"catagory_id":"50","product_name":"25AUA","product_id":"14535","product_link":"product\/25aua","nodequeue_position":"53"},{"catagory_id":"50","product_name":"30AUA","product_id":"14536","product_link":"product\/30aua","nodequeue_position":"52"},{"catagory_id":"50","product_name":"20ALA","product_id":"14537","product_link":"product\/20ala","nodequeue_position":"51"},{"catagory_id":"50","product_name":"25ALA","product_id":"14538","product_link":"product\/25ala","nodequeue_position":"50"},{"catagory_id":"50","product_name":"30ALA","product_id":"14539","product_link":"product\/30ala","nodequeue_position":"49"},{"catagory_id":"50","product_name":"20RGA","product_id":"14540","product_link":"product\/20rga","nodequeue_position":"48"},{"catagory_id":"50","product_name":"25RGA","product_id":"14541","product_link":"product\/25rga","nodequeue_position":"47"},{"catagory_id":"50","product_name":"30RGA","product_id":"14542","product_link":"product\/30rga","nodequeue_position":"46"},{"catagory_id":"50","product_name":"20RLA","product_id":"14543","product_link":"product\/20rla","nodequeue_position":"45"},{"catagory_id":"50","product_name":"25RLA","product_id":"14544","product_link":"product\/25rla","nodequeue_position":"44"},{"catagory_id":"50","product_name":"30RLA","product_id":"14545","product_link":"product\/30rla","nodequeue_position":"43"},{"catagory_id":"49","product_name":"17CUH","product_id":"14546","product_link":"product\/17cuh","nodequeue_position":"40"},{"catagory_id":"49","product_name":"17CUH_SEA Edition","product_id":"14547","product_link":"product\/17cuhsea-edition","nodequeue_position":"39"},{"catagory_id":"49","product_name":"24CUH","product_id":"14548","product_link":"product\/24cuh","nodequeue_position":"38"},{"catagory_id":"49","product_name":"24CUH_SEA Edition","product_id":"14549","product_link":"product\/24cuhsea-edition","nodequeue_position":"37"},{"catagory_id":"49","product_name":"24CHH","product_id":"14550","product_link":"product\/24chh","nodequeue_position":"36"},{"catagory_id":"49","product_name":"24CHH_SEA Edition","product_id":"14551","product_link":"product\/24chhsea-edition","nodequeue_position":"35"},{"catagory_id":"49","product_name":"24CDH","product_id":"14552","product_link":"product\/24cdh","nodequeue_position":"34"},{"catagory_id":"49","product_name":"24CDH_SEA Edition","product_id":"14553","product_link":"product\/24cdhsea-edition","nodequeue_position":"33"},{"catagory_id":"49","product_name":"24CURB","product_id":"14554","product_link":"product\/24curb","nodequeue_position":"32"},{"catagory_id":"49","product_name":"24CHRB","product_id":"14555","product_link":"product\/24chrb","nodequeue_position":"31"},{"catagory_id":"49","product_name":"24CURVB","product_id":"14556","product_link":"product\/24curvb","nodequeue_position":"30"},{"catagory_id":"49","product_name":"24CHRVB","product_id":"14557","product_link":"product\/24chrvb","nodequeue_position":"29"}];</script></div>
+</section>
+<section id="block-system-main" class="block block-system clearfix">
+
+      
+  
+<div id="node-11348" class="node node-product clearfix"     node-id="11348"
+     parent-cate="40"
+     sub-cate="60">
+
+  
+      
+  
+  <div class="content">
+
+    
+    <div id='remark-607' class='remark-content mfp-hide'><div class='remark-title'>Remarks</div><div class='remark-key'>1/f Yuragi</div><br><div class='remark-body'><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">By this sophosticated formula, 1/f Yuragi, in varying air velocity and controlling wind force, the new ceiling fan presents you a peaceful and comfortable breeze. Incorporated with the human-concerned technology, this kind of rththm also maintains your external body temperature and keep you in a better and relaxing physical condition</span></span></p></div></div><div id='remark-614' class='remark-content mfp-hide'><div class='remark-title'>Remarks</div><div class='remark-key'>3D Circulation Airflow</div><br><div class='remark-body'><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">3D circulation airflow is divided into two modes, including Front Airflow and Upwards Airflow. Usually, various types of dirts appear at different position between the ceiling and the floor in the room, and they can be purified by different modes of 3D airflow respectively. Front Airflow mode cleans up house dust spreading within&nbsp;30cm&nbsp;above the floor, while Upwards airflow removes odor floating in the air.</span></span></p></div></div><div id='remark-610' class='remark-content mfp-hide'><div class='remark-title'>Remarks</div><div class='remark-key'>Advanced blade design</div><br><div class='remark-body'><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">To optimize airflow performance of the ventilating fan, the new blade design applies advanced aerodynamic principle that minimizes any obstacle against the airflow. Air volume is maintained while rotation speed can be reduced, resulting lower noise level and power consumption.</span></span></p></div></div><div id='remark-611' class='remark-content mfp-hide'><div class='remark-title'>Remarks</div><div class='remark-key'>Cut-off safety switch</div><br><div class='remark-body'><p><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:14px;">Cut-off safety switch is equipped to cut off power supply while dangerous wear and tear of the shaft or bolt are detected.</span></span></p></div></div><div id='remark-612' class='remark-content mfp-hide'><div class='remark-title'>Remarks</div><div class='remark-key'>Double chamber</div><br><div class='remark-body'><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Distinctive structure of "Double Chamber" minimizes the transmission of noise from fan and motor to exterior. This technology further reduces the operation noise to incredibly low level below 30dB(A) by "Resonance-Noise-Absorption" operation, which creates a tranquility and silent environment</span></span></p></div></div><div id='remark-613' class='remark-content mfp-hide'><div class='remark-title'>Remarks</div><div class='remark-key'>nanoe</div><br><div class='remark-body'><p><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:14px;">nanoe Ion is long-life micro particles created from water, it can penetrate into fabrics thoroughly and reach in far corners to absorb the allergens. As the ions are wrapped in water molecules that the effect is long-lasting. Furthermore, the nanoe ions condense as moisture in the air that water replenishment for the product is not required.</span></span></p></div></div><div id='remark-608' class='remark-content mfp-hide'><div class='remark-title'>Remarks</div><div class='remark-key'>Safety wire</div><br><div class='remark-body'><p><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:14px;">Safety wire is adopted to secure the fan motor with the ceiling hook that prevents falling of the motor when detaching of the fan moto from the pipe rod occurs.</span></span></p></div></div><div id='remark-609' class='remark-content mfp-hide'><div class='remark-title'>Remarks</div><div class='remark-key'>Wobbling reduction mechanism</div><br><div class='remark-body'><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Wobbling reduction mechanism can reduce wobbing between bolt, motor shaft and pipe. it can minimize wearing of the parts to prevent falling of fan.</span></span></p></div></div>
+    <div class="product-info row">
+
+      <div class="product-info-left col-sm-6 col-md-6">
+        <h1>40BEBH</h1>
+        <div class="field-product-description">
+          <ul><li>PTC heater</li>
+<li>Integrated muti-functional ventilator</li>
+<li>Mini size design</li>
+<li>Wireless remote controlled</li>
+<li>'Alleru-buster filter' equipped</li>
+<li>Heater capacity = 1650W</li>
+<li>Air volume = 150 m<sup>3</sup>/h (venitaltion)</li>
+</ul>        </div>
+      </div>
+
+      <div class="product-info-right col-sm-6 col-md-6">
+        <a id="product_photo_preview" href="https://www.kdk.jp/sites/default/files/products/thumbnail/40BEBH_6_960_1kwBFBUO2G.png">
+          <img src="https://www.kdk.jp/sites/default/files/products/thumbnail/40BEBH_6_960_1kwBFBUO2G.png">
+        </a>
+
+        <div id="product_color_switch">
+
+          <ul class="widget-variant-color">
+                      </ul>
+
+        </div>
+      </div>
+      <div class="product-info-left col-sm-6 col-md-6 mobile-product-info">
+        <h1>40BEBH</h1>
+        <div class="field-product-description">
+          <ul><li>PTC heater</li>
+<li>Integrated muti-functional ventilator</li>
+<li>Mini size design</li>
+<li>Wireless remote controlled</li>
+<li>'Alleru-buster filter' equipped</li>
+<li>Heater capacity = 1650W</li>
+<li>Air volume = 150 m<sup>3</sup>/h (venitaltion)</li>
+</ul>        </div>
+      </div>
+
+
+    </div>
+
+    
+      <div class="product-gallery">
+
+        <h3>Photos</h3>
+
+        <div class="product_slide_wrap">
+          <div id="" class="product_slide">
+            
+              <div>
+                <a class="product_slide_pop" href="https://www.kdk.jp/sites/default/files/products/gallery/40BEBH_2_960_WJY7hDlHyW.png">
+                  <img class="img-responsive" src="https://www.kdk.jp/sites/default/files/products/gallery/40BEBH_2_960_WJY7hDlHyW.png" alt=""
+                       title="">
+                </a>
+              </div>
+            
+              <div>
+                <a class="product_slide_pop" href="https://www.kdk.jp/sites/default/files/products/gallery/40BEBH_3_960_IgSD8qS4RP.png">
+                  <img class="img-responsive" src="https://www.kdk.jp/sites/default/files/products/gallery/40BEBH_3_960_IgSD8qS4RP.png" alt=""
+                       title="">
+                </a>
+              </div>
+                      </div>
+        </div>
+
+
+        <div class="product_slide_nav left prev" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </div>
+        <div class="product_slide_nav right next" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </div>
+      </div>
+    
+
+    
+          <div class="horizontal-tabs">
+
+        <ul class="nav nav-pills">
+          <li class="nav-item active" tabindex="1">
+            <a class="nav-link" data-toggle="tab" href="#home" role="tab"><strong>Features</strong></a>
+          </li>
+
+                      <li class="nav-item" tabindex="2">
+              <a class="nav-link" data-toggle="tab" href="#specification" role="tab"><strong>Specification</strong></a>
+            </li>
+          
+          
+          
+                      <li class="nav-item" tabindex="5">
+              <a class="nav-link" data-toggle="tab" href="#support" role="tab"><strong>Support</strong></a>
+            </li>
+                  </ul>
+        <select class="mobile-product-nav">
+
+          <option class="nav-link" data-toggle="tab" value="#home" role="tab"><strong>Features</strong></option>
+                      <option class="nav-link" data-toggle="tab" value="#specification" role="tab"><strong>Specification</strong>
+            </option>
+                                                    <option class="nav-link" data-toggle="tab" value="#support" role="tab"><strong>Support</strong></option>
+                  </select>
+
+
+        <div class="row">
+          <div class="tab-content col-xs-12" id="myTabContent">
+
+            <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="feature-tab">
+              <div class="field-product-features">
+                <ul><li>Multi-function : heating, clothes drying, ventialtion, circulation  </li>
+<li>The ventilator shall be suitable for ceiling mounting  </li>
+<li>'Pre-Heat' function can instantly warm up the bathroom  </li>
+<li>2650W halogen heating element adopted for excellent heating capability  </li>
+<li>Selectable ventialtion outlet provides more flexibility for installation  </li>
+<li>Twin Sirocco Fans employed to exhaust and circulate room air respectively  </li>
+<li>Multi-level safety protection  </li>
+<li>5-step timer with continous operation  </li>
+<li>Safety design base on IEC requirement  </li>
+<li>Color option: Ivory white</li>
+<li>Market: Hong Kong</li>
+</ul>
+                
+              </div>
+            </div>
+
+            <div class="tab-pane" id="specification" role="tabpanel" aria-labelledby="specification-tab">
+
+
+              <div id="spec-filter" class="pes-vf-filter">
+                <div class="filter-column filter-voltage">
+                  <div class="filter-label">Voltage [V]</div>
+                  <div class="filter-options">
+                                          <span class="filter-option" data-value="220">220</span>
+                                      </div>
+                </div>
+                <div class="filter-column filter-frequency">
+                  <div class="filter-label">Frequency [Hz]</div>
+                  <div class="filter-options">
+                                          <span class="filter-option" data-value="50">50</span>
+                                      </div>
+                </div>
+              </div>
+
+              
+              <div class="amca-buttons-wrapper">
+                  <button class="btn-general active">General</button>
+                  <button class="btn-amca">AMCA</button>
+              </div>
+              <div class="product-specification-tab general shared">
+                <div class="row">
+
+                  <div class="col-sm-7 mobile-product-spec-img">
+                                          <div class="field-spec-image">
+                        <img src="https://www.kdk.jp/sites/default/files/products/spec_img/40BEBH-Dimension_mVBnSnoXns.jpg"
+                            alt="40BEBH Dimension" title="40BEBH Dimension"/>
+                      </div>
+
+                      <div class="field-spec-image-caption">
+                        40BEBH Dimension                      </div>
+                                      </div>
+
+                  <div class="col-sm-5">
+                    <div id="hero-spec-display"></div>
+                    <div id="hero-spec-display-more"></div>
+                    <a href="#" class="more-spec-btn">See All Specs</a>
+                  </div>
+
+                  <div class="col-sm-7 desktop-product-spec-img">
+                                          <div class="field-spec-image">
+                        <img src="https://www.kdk.jp/sites/default/files/products/spec_img/40BEBH-Dimension_mVBnSnoXns.jpg"
+                            alt="40BEBH Dimension" title="40BEBH Dimension"/>
+                      </div>
+
+                      <div class="field-spec-image-caption">
+                        40BEBH Dimension                      </div>
+                                      </div>
+                </div>
+                </div>
+                
+                <div class="more-spec">
+                                      <div class="spec-table"
+                        data-voltage="220"
+                        data-frequency="50"
+                        data-has-amca="">
+
+                      <div class="hero-spec">
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                                                    <div class="hero-spec-row ">
+                            <span class="hero-spec-label">Air Volume Ventilation - Hi [CMH]</span>
+                            <span
+                              class="hero-spec-value">180</span>
+                          </div>
+                        
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                                                    <div class="hero-spec-row ">
+                            <span class="hero-spec-label">Consumption Normal - Hi [W]</span>
+                            <span
+                              class="hero-spec-value">2,650</span>
+                          </div>
+                        
+                        
+                          
+                        
+                                                    <div class="hero-spec-row ">
+                            <span class="hero-spec-label">Consumption Ventilation - Hi [W]</span>
+                            <span
+                              class="hero-spec-value">23</span>
+                          </div>
+                        
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                                                    <div class="hero-spec-row ">
+                            <span class="hero-spec-label">Noise Heat - Hi [dB(A)]</span>
+                            <span
+                              class="hero-spec-value">45</span>
+                          </div>
+                        
+                        
+                                                    <div class="hero-spec-row ">
+                            <span class="hero-spec-label">Noise Ventilation - Hi [dB(A)]</span>
+                            <span
+                              class="hero-spec-value">35</span>
+                          </div>
+                        
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                          
+                        
+                                                    <div class="hero-spec-row ">
+                            <span class="hero-spec-label">Weight [kg]</span>
+                            <span
+                              class="hero-spec-value">7.60</span>
+                          </div>
+                        
+                                              </div>
+                      
+<article id="node-11962" class="node node-product-specification clearfix" >
+
+    <div class="product-specification-tab general">
+        <div class="field field-name-field-voltage field-type-list-integer field-label-above"><div class="field-label">Voltage [V]:&nbsp;</div><div class="field-items"><div class="field-item even">220</div></div></div><div class="field field-name-field-frequency field-type-list-integer field-label-above"><div class="field-label">Frequency [Hz]:&nbsp;</div><div class="field-items"><div class="field-item even">50</div></div></div><fieldset  class="collapsible group-av-v field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--13">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-13-body" class="panel-title fieldset-legend" data-toggle="collapse">Air Volume - Ventilation</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-13-body">
+        <div class="collapsible group-avv-cmh field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">[CMH]</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-air-volume-v-hi-cmh field-type-text field-label-above"><div class="field-label">Air Volume Ventilation - Hi [CMH]:&nbsp;</div><div class="field-items"><div class="field-item even">180</div></div></div></div></div>  </div>
+</fieldset>
+<fieldset  class="collapsible group-consumption field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--14">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-14-body" class="panel-title fieldset-legend" data-toggle="collapse">Consumption [W]</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-14-body">
+        <div class="collapsible group-consumption-ventilation field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Ventilation</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-consumption-v-hi-w field-type-text field-label-above"><div class="field-label">Consumption Ventilation - Hi [W]:&nbsp;</div><div class="field-items"><div class="field-item even">23</div></div></div></div></div><div class="field field-name-field-consumption-normal-hi-w field-type-text field-label-above"><div class="field-label">Consumption Normal - Hi [W]:&nbsp;</div><div class="field-items"><div class="field-item even">2,650</div></div></div>  </div>
+</fieldset>
+<fieldset  class="collapsible group-current-a field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--15">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-15-body" class="panel-title fieldset-legend" data-toggle="collapse">Current [A]</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-15-body">
+        <div class="field field-name-field-current-hi-a field-type-text field-label-above"><div class="field-label">Current - Hi [A]*:&nbsp;</div><div class="field-items"><div class="field-item even">16</div></div></div>  </div>
+</fieldset>
+<fieldset  class="collapsible group-noise field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--16">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-16-body" class="panel-title fieldset-legend" data-toggle="collapse">Noise [dB(A)]</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-16-body">
+        <div class="collapsible group-noise-heat field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Heat</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-noise-heat-hi-dba field-type-text field-label-above"><div class="field-label">Noise Heat - Hi [dB(A)]:&nbsp;</div><div class="field-items"><div class="field-item even">45</div></div></div></div></div><div class="collapsible group-noise-ventilation field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Ventilation</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-noise-v-hi-dba field-type-text field-label-above"><div class="field-label">Noise Ventilation - Hi [dB(A)]:&nbsp;</div><div class="field-items"><div class="field-item even">35</div></div></div></div></div>  </div>
+</fieldset>
+<fieldset  class="collapsible group-ambient-temperature field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--17">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-17-body" class="panel-title fieldset-legend" data-toggle="collapse">Ambient Temperature [℃]</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-17-body">
+        <div class="field field-name-field-ambient-temperature field-type-text field-label-above"><div class="field-label">Ambient Temperature [℃]:&nbsp;</div><div class="field-items"><div class="field-item even">-10°C ~ 40°C</div></div></div>  </div>
+</fieldset>
+<fieldset  class="collapsible group-duct-size field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--18">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-18-body" class="panel-title fieldset-legend" data-toggle="collapse">Duct Size [mm]</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-18-body">
+        <div class="field field-name-field-duct-size field-type-text field-label-above"><div class="field-label">Duct Size [mm]:&nbsp;</div><div class="field-items"><div class="field-item even">Ø100</div></div></div>  </div>
+</fieldset>
+<fieldset  class="collapsible group-installation-space field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--19">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-19-body" class="panel-title fieldset-legend" data-toggle="collapse">Installation Space [mm]</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-19-body">
+        <div class="field field-name-field-installation-space field-type-text field-label-above"><div class="field-label">Installation Space [mm]:&nbsp;</div><div class="field-items"><div class="field-item even">400 (L) x 280 (W)</div></div></div>  </div>
+</fieldset>
+<fieldset  class="collapsible group-ip-rating field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--20">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-20-body" class="panel-title fieldset-legend" data-toggle="collapse">IP Rating</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-20-body">
+        <div class="field field-name-field-ip-rating field-type-text field-label-above"><div class="field-label">IP Rating:&nbsp;</div><div class="field-items"><div class="field-item even">IPX4 (body)</div></div></div>  </div>
+</fieldset>
+<fieldset  class="collapsible group-weight field-group-fieldset panel panel-default form-wrapper" id="bootstrap-panel--21">
+          <legend class="panel-heading">
+      <a href="#bootstrap-panel-21-body" class="panel-title fieldset-legend" data-toggle="collapse">Weight [kg]</a>
+    </legend>
+        <div class="panel-body panel-collapse collapse fade in" id="bootstrap-panel-21-body">
+        <div class="field field-name-field-weight field-type-text field-label-above"><div class="field-label">Weight [kg]:&nbsp;</div><div class="field-items"><div class="field-item even">7.60</div></div></div>  </div>
+</fieldset>
+<div class="field field-name-field-product-country field-type-taxonomy-term-reference field-label-above"><div class="field-label">Product Country:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/product-country/hong-kong">Hong Kong</a></div></div></div>    </div>
+
+        
+</article>                    </div>
+                                  </div>
+              
+            </div>
+
+            <div class="tab-pane" id="pqcurve" role="tabpanel" aria-labelledby="pqcurve-tab">
+
+              <div id="pqcurve-filter" class="pes-vf-filter">
+                <div class="filter-column filter-voltage">
+                  <div class="filter-label">Voltage [V]</div>
+                  <div class="filter-options">
+                                      </div>
+                </div>
+                <div class="filter-column filter-frequency">
+                  <div class="filter-label">Frequency [Hz]</div>
+                  <div class="filter-options">
+                                      </div>
+                </div>
+                <div class="filter-column filter-model">
+                  <div class="filter-label">Model</div>
+                  <div class="filter-options">
+                                      </div>
+                </div>
+              </div>
+
+              <div class="pqcurves">
+                              </div>
+            </div>
+
+
+            <div class="tab-pane" id="accessory" role="tabpanel" aria-labelledby="accessory-tab">
+              <div class="view view-accessories view-id-accessories view-display-id-block_accessories_of_product view-dom-id-4b35d67f84dabaaf334fd938c57d86be">
+        
+  
+  
+      <div class="view-empty">
+      <p>No any Accessories for this Product!</p>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>            </div>
+
+            <div class="tab-pane" id="support" role="tabpanel" aria-labelledby="support-tab">
+              <div class="view view-product-support view-id-product_support view-display-id-block_support_of_product view-dom-id-a6f3c2d98106f60b77d160bc612263a4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-download-resource">        <div class="field-content"><div class="row"><div class="col-sm-8 col-md-8  col-xs-12"><span class="file"><a href="https://www.kdk.jp/sites/default/files/downloads/support/AD-40BEBH-SpecSheet_RjW6R85csH.pdf" type="application/pdf; length=854011" target="_blank">40BEBH Specification Sheet</a></span></div><div class="col-sm-4 col-md-4  col-xs-12"> <span class="file-download"><a href="https://www.kdk.jp/sites/default/files/downloads/support/AD-40BEBH-SpecSheet_RjW6R85csH.pdf" title="[40BEBH Specification Sheet]" download="">Download</a></span></div></div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>            </div>
+          </div>
+        </div>
+
+      </div>
+    
+    <div class="related-product">
+
+      <div class="view view-related-product view-id-related_product view-display-id-block view-dom-id-cd8ef3fa6b97067d103a821cef143351">
+        
+  
+  
+      <div class="view-content">
+      
+<style>
+	#product_carousel .item{
+		text-align:center;
+	}
+
+	#product_carousel img{
+		margin:0 auto;
+		max-width:200px;
+	}
+
+	@media screen and (max-width:500px){
+		#product_carousel img{
+			margin:0 auto;
+			max-width:170px;
+		}
+	}
+
+	#product_carousel .views-field-name{
+		text-align:center;
+
+	}
+
+	#product_carousel .views-field-name a{
+		font-family: "Open Sans Condensed";
+		font-size: 20px;
+		font-weight: bold;
+		font-style: normal;
+		font-stretch: condensed;
+		line-height: normal;
+		letter-spacing: normal;
+	}
+	#product_carousel .carousel-control.right, #product_carousel .carousel-control.left{
+		background-image:none;
+	}
+
+	#product_carousel .item_wrap{
+		display:inline-block;
+		margin:0 20px;
+	}
+
+</style>
+<h3>Related Products</h3>
+<div class="related_product_slide_wrap">
+	<div id="" class="related_product_slide">
+			 
+					<div>
+						<a href="https://www.kdk.jp/product/40bech">
+							<img class="img-responsive" src="https://www.kdk.jp/sites/default/files/products/thumbnail/40BECH-1_oYVGMSpCsY.png" alt="40BECH">
+							<span>40BECH</span>
+						</a>	
+					</div>
+			 
+					<div>
+						<a href="https://www.kdk.jp/product/30buc">
+							<img class="img-responsive" src="https://www.kdk.jp/sites/default/files/products/thumbnail/30BUC%282%29_yEsNBkZKWv.png" alt="30BUC">
+							<span>30BUC</span>
+						</a>	
+					</div>
+			 
+					<div>
+						<a href="https://www.kdk.jp/product/30bgch">
+							<img class="img-responsive" src="https://www.kdk.jp/sites/default/files/products/thumbnail/30BGBH_1_960_pIS15LouIM.png" alt="30BGCH">
+							<span>30BGCH</span>
+						</a>	
+					</div>
+				</div>
+	<div class="related_product_nav left prev"  data-slide="prev">
+		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</div>
+	<div class="related_product_nav right next"  data-slide="next">
+		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</div>
+</div>
+<script>
+	jQuery(document).ready(function(){
+		jQuery('.related_product_slide').slick({
+		  dots: false,
+		  infinite: false,
+		  speed: 300,
+		  slidesToShow: 3,
+		  slidesToScroll: 3,
+		  infinite: true,
+		  prevArrow: jQuery('.related_product_nav.left.prev'),
+		  nextArrow: jQuery('.related_product_nav.right.next'),
+		  responsive: [
+		    {
+		      breakpoint: 1024,
+		      settings: {
+		        slidesToShow: 3,
+		        slidesToScroll: 3,
+		        infinite: true,
+		        dots: false
+		      }
+		    },
+		    {
+		      breakpoint: 600,
+		      settings: {
+		        slidesToShow: 2,
+		        slidesToScroll: 2
+		      }
+		    },
+		    {
+		      breakpoint: 480,
+		      settings: {
+		        slidesToShow: 1,
+		        slidesToScroll: 1
+		      }
+		    }
+		    // You can unslick at a given breakpoint now by adding:
+		    // settings: "unslick"
+		    // instead of a settings object
+		  ]
+		});	
+});	
+	
+</script>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+
+</div>
+
+</div>
+<script>
+  jQuery('#product_photo_preview').magnificPopup({
+    type: 'image',
+  });
+
+
+  jQuery('.product_slide').magnificPopup({
+    delegate: '.slick-slide:not(.slick-cloned) a',
+    type: 'image',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0, 1],
+      arrowMarkup: '<span title="%title%" class="glyphicon glyphicon-chevron-%dir%" aria-hidden="true"></span>', // markup of an arrow button
+    }
+  });
+
+  jQuery('.open-popup').magnificPopup({
+    type: 'inline',
+    removalDelay: 300,
+    mainClass: 'mfp-fade',
+    fixedContentPos: true,
+    midClick: true
+  });
+
+</script>
+<style>
+  .related-product .slide-item {
+    width: 30%;
+    padding: 0 1%;
+    float: left;
+  }
+
+  .related-product .slide-item h4 {
+    font-family: "Open Sans Condensed";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: condensed;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--black);
+  }
+
+  .block-peshk-category-drop-down select.form-control#second-catagory {
+    width: 100% !important;
+  }
+
+  .block-peshk-category-drop-down select.form-control#first-catagory {
+    width: 100% !important;
+  }
+
+  .block-peshk-category-drop-down select.form-control {
+    width: 100% !important;
+  }
+
+  #block-peshk-category-drop-down-peshk-category-drop-down-block .label {
+    display: block;
+    text-align: left;
+    width: 100% !important;
+  }
+</style>
+
+<script>
+  const market = null;
+  const amca_only_market = false;
+
+  jQuery(document).ready(function () {
+
+    jQuery('.product_slide').slick({
+      dots: false,
+      infinite: false,
+      speed: 300,
+      slidesToShow: 3,
+      slidesToScroll: 3,
+      infinite: true,
+      prevArrow: jQuery('.product_slide_nav.left.prev'),
+      nextArrow: jQuery('.product_slide_nav.right.next'),
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            infinite: true,
+            dots: false
+          }
+        },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+      ]
+    });
+
+
+    if (jQuery('.node-product').attr('parent-cate') == "") {
+      jQuery('#second-catagory').parent().hide();
+    }
+
+    jQuery('#first-catagory option').each(function () {
+      jQuery(this).removeAttr("selected");
+
+      if (jQuery('.node-product').attr('parent-cate') != "") {
+        var cateid = jQuery('.node-product').attr('parent-cate');
+      } else {
+        var cateid = jQuery('.node-product').attr('sub-cate');
+      }
+
+      if (jQuery(this).attr("value") == cateid) {
+        jQuery(this).prop("selected", true);
+        jQuery('#first-catagory').change();
+      }
+    });
+
+
+    jQuery('#second-catagory option').each(function () {
+      jQuery(this).removeAttr("selected");
+
+      if (jQuery(this).attr("value") == jQuery('.node-product').attr('sub-cate')) {
+        jQuery(this).prop("selected", true);
+        jQuery('#second-catagory').change();
+      }
+    });
+
+    jQuery('#product option').each(function () {
+      jQuery(this).removeAttr("selected");
+      if (jQuery(this).attr("data-id") == jQuery('.node-product').attr('node-id')) {
+        jQuery(this).prop("selected", true);
+      }
+    });
+
+    
+
+  });
+
+</script>
+
+</section>
+  </div>
+        </div>
+      </div>
+    </section>
+
+      
+  </div>
+</div>
+
+  <footer class="footer container-fluid">
+        <div class="region region-footer">
+    <section id="block-block-2" class="block block-block clearfix">
+
+      
+  <div id="globalfooter-nav">
+<div class="container">
+<div class="row">
+<div class="print col-md-4  col-sm-4 col-xl-4"><a href="javascript:void(0);" onclick="window.print(); return false">Print</a></div>
+<div class="pagetop col-md-4  col-sm-4 col-xl-4"><a href="#">Back to Top</a></div>
+<div class="links col-md-4  col-sm-4 col-xl-4">
+<!--<div class="links-root-item"><a href="https://www.panasonic.com/global/global-network.html">Area / Country</a></div>--></div>
+</div>
+</div>
+</div>
+
+</section>
+<section id="block-block-1" class="block block-block clearfix">
+
+      
+  <div class="container copyright_container">
+<p class="copyright">Copyright © KDK Hong Kong 2019</p>
+<p class="copyright icp"></p>
+</div>
+
+</section>
+<section id="block-menu-menu-footermenu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/sitemap" title="">Site Map</a></li>
+<li class="leaf"><a href="/terms-use" title="">Terms of Use</a></li>
+<li class="last leaf"><a href="/privacy-policy" title="">Privacy Policy</a></li>
+</ul>
+</section>
+  </div>
+  </footer>
+  <script>function euCookieComplianceLoadScripts() {}</script>
+<script>var eu_cookie_compliance_cookie_name = "";</script>
+<script src=""></script>
+<script src="https://www.kdk.jp/sites/all/themes/bootstrap/js/bootstrap.js?s4rkmb"></script>
+<script src="https://www.kdk.jp/sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?s4rkmb"></script>
+</body>
+</html>
