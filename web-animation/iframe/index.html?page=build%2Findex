@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<!-- meta -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="Panasonic">
+<meta name="description" content="Panasonic">
+<meta http-equiv="X-UA-Compatible" content="IE=9;IE=10;IE=Edge,chrome=1"/>
+<title>Panasonic</title>
+<!-- favicon -->
+<link href="/sites/all/modules/custom/web_animation/html/build/favicon.ico" rel="icon">
+<link href="favicon.ico" rel="shortcut icon">
+<link href="apple-touch-icon.png" rel="apple-touch-icon">
+<!-- web fonts -->
+<!-- css rwd core -->
+<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+<!-- css plugins -->
+<link href="/sites/all/modules/custom/web_animation/html/build/assets/css/animate.min.css" rel="stylesheet">
+<!-- css themes -->
+<link href="/sites/all/modules/custom/web_animation/html/build/assets/css/plugins/aos.css" rel="stylesheet">
+<!-- css customization -->
+<link href="/sites/all/modules/custom/web_animation/html/build/assets/css/app.css" rel="stylesheet">
+
+</head>
+<body>
+<!-- header -->
+<main>
+  <div id="index" class="g-grid">
+    <h1 class="h1">Panasonic</h1>
+    <div class="container c w-xs">
+      <h2 class="h2">Introduction</h2>
+      <p 
+        class="text" 
+        data-panasonic="fade-up" 
+        data-panasonic-duration="1500">Highly airtight and insulated house can cause bad ventilation, dew condensation and indoor air pollution.</p>
+      <p 
+        class="text" 
+        data-panasonic="fade-up" 
+        data-panasonic-delay="200" 
+        data-panasonic-duration="1500">Hazardous substances caused by sick house or allergy, are even more active during summer due to high temperature and high humidity.</p>
+      <p 
+        class="text" 
+        data-panasonic="fade-up" 
+        data-panasonic-delay="400" 
+        data-panasonic-duration="1500">Please have a tour to discover the air problems in your home.</p>
+      <div class="i-house mg-25">
+        <img src="/sites/all/modules/custom/web_animation/html/build/assets/images/icon-house.svg" alt="">
+      </div>
+      <a 
+        href="/sites/all/modules/custom/web_animation/html/build/dirtyhome.html" 
+        title="start" 
+        class="btn submit w-xs">start</a>
+    </div>
+  </div>
+</main>
+<!-- footer -->
+<!--[if gte IE 9]><!-->
+<script src="/sites/all/modules/custom/web_animation/html/build/assets/js/plugins/jQuery/jquery-3.3.1.min.js"></script>
+<!--<![endif]-->
+<!-- js plugins -->
+<script src="/sites/all/modules/custom/web_animation/html/build/assets/js/plugins/bootstrap/bootstrap-4.1.1.min.js"></script>
+<script src="/sites/all/modules/custom/web_animation/html/build/assets/js/plugins/imageMapResizer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mobile-detect@1.4.3/mobile-detect.min.js"></script>
+<script src="/sites/all/modules/custom/web_animation/html/build/assets/js/plugins/aos.js"></script>
+<script src="/sites/all/modules/custom/web_animation/html/build/assets/js/app.js"></script>
+</body>
+</html>
